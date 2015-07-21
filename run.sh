@@ -1,3 +1,3 @@
-runipy disease-similirities.ipynb
-runipy walk.ipynb
+runipy --overwrite disease-similirities.ipynb
+runipy --overwrite walk.ipynb
 
