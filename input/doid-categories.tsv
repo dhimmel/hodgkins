@@ -1,0 +1,42 @@
+doid_code	name	category
+DOID:10283	prostate cancer	Solid Cancer
+DOID:10286	prostate carcinoma	Solid Cancer
+DOID:10534	stomach cancer	Solid Cancer
+DOID:1107	esophageal carcinoma	Solid Cancer
+DOID:1520	colon carcinoma	Solid Cancer
+DOID:1612	breast cancer	Solid Cancer
+DOID:1909	melanoma	Solid Cancer
+DOID:3459	breast carcinoma	Solid Cancer
+DOID:3905	lung carcinoma	Solid Cancer
+DOID:3908	non-small cell lung carcinoma	Solid Cancer
+DOID:4007	bladder carcinoma	Solid Cancer
+DOID:4905	pancreatic carcinoma	Solid Cancer
+DOID:684	hepatocellular carcinoma	Solid Cancer
+DOID:9256	colorectal cancer	Solid Cancer
+DOID:1040	chronic lymphocytic leukemia	Hematologic Cancer
+DOID:6536	plasma cell neoplasm	Hematologic Cancer
+DOID:8552	chronic myeloid leukemia	Hematologic Cancer
+DOID:8567	Hodgkin's lymphoma	Hematologic Cancer
+DOID:9119	acute myeloid leukemia	Hematologic Cancer
+DOID:9952	acute lymphocytic leukemia	Hematologic Cancer
+DOID:10608	celiac disease	Autoimmune
+DOID:12236	primary biliary cirrhosis	Autoimmune
+DOID:12306	vitiligo	Autoimmune
+DOID:12361	Graves' disease	Autoimmune
+DOID:13241	Behcet's disease	Autoimmune
+DOID:13378	Kawasaki disease	Autoimmune
+DOID:1459	hypothyroidism	Autoimmune
+DOID:2377	multiple sclerosis	Autoimmune
+DOID:2841	asthma	Autoimmune
+DOID:3310	atopic dermatitis	Autoimmune
+DOID:418	systemic scleroderma	Autoimmune
+DOID:4481	allergic rhinitis	Autoimmune
+DOID:5408	Paget's disease of bone	Autoimmune
+DOID:7147	ankylosing spondylitis	Autoimmune
+DOID:7148	rheumatoid arthritis	Autoimmune
+DOID:8577	ulcerative colitis	Autoimmune
+DOID:8778	Crohn's disease	Autoimmune
+DOID:8893	psoriasis	Autoimmune
+DOID:9074	systemic lupus erythematosus	Autoimmune
+DOID:9744	type 1 diabetes mellitus	Autoimmune
+DOID:986	alopecia areata	Autoimmune

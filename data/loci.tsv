@@ -1,0 +1,1626 @@
+doid_code	doid_name	lead_chrom	lower_coord	upper_coord
+DOID:0050156	idiopathic pulmonary fibrosis	chr5	1330577	1340194
+DOID:0050156	idiopathic pulmonary fibrosis	chr11	1100884	1197797
+DOID:0050156	idiopathic pulmonary fibrosis	chr11	1201874	1371156
+DOID:0050425	restless legs syndrome	chr9	9199143	9376910
+DOID:0050425	restless legs syndrome	chr15	65820976	65927369
+DOID:0050425	restless legs syndrome	chr16	51094386	51209215
+DOID:0050425	restless legs syndrome	chr6	38431448	38552018
+DOID:0050425	restless legs syndrome	chr9	8815715	8848043
+DOID:0050425	restless legs syndrome	chr2	66608457	66642095
+DOID:0050425	restless legs syndrome	chr2	67890717	67956923
+DOID:0050741	alcohol dependence	chr3	165863472	166073221
+DOID:0050741	alcohol dependence	chr5	53627920	53628118
+DOID:0050741	alcohol dependence	chr21	37907182	38007777
+DOID:0050741	alcohol dependence	chr4	100466374	100528188
+DOID:0050741	alcohol dependence	chr2	216584449	216642365
+DOID:0050741	alcohol dependence	chr1	31460361	31675005
+DOID:0050741	alcohol dependence	chr12	100156933	100349094
+DOID:0050742	nicotine dependence	chr8	42624110	42784397
+DOID:0050742	nicotine dependence	chr15	76506556	76839367
+DOID:1024	leprosy	chr9	116578155	116667390
+DOID:1024	leprosy	chr13	43273330	43388181
+DOID:1024	leprosy	chr6	146938899	146975340
+DOID:1024	leprosy	chr1	67364248	67433832
+DOID:1024	leprosy	chr8	90709838	90946574
+DOID:1024	leprosy	chr16	49411919	49449786
+DOID:1024	leprosy	chr16	49271530	49317481
+DOID:10286	prostate carcinoma	chr3	129245944	129605510
+DOID:10286	prostate carcinoma	chr2	62658728	63329144
+DOID:10286	prostate carcinoma	chr17	44653965	44868890
+DOID:10286	prostate carcinoma	chr12	51553006	51644301
+DOID:10286	prostate carcinoma	chr5	1332790	1335414
+DOID:10286	prostate carcinoma	chr17	33167135	33177985
+DOID:10286	prostate carcinoma	chr8	23543819	23601403
+DOID:10286	prostate carcinoma	chr3	142546643	142777740
+DOID:10286	prostate carcinoma	chr5	172842765	172893562
+DOID:10286	prostate carcinoma	chr17	452913	579938
+DOID:10286	prostate carcinoma	chr5	44175980	44427899
+DOID:10286	prostate carcinoma	chr8	128384095	128448145
+DOID:10286	prostate carcinoma	chr12	47958981	47962277
+DOID:10286	prostate carcinoma	chr19	43417916	43469566
+DOID:10286	prostate carcinoma	chr2	85590204	85671999
+DOID:10286	prostate carcinoma	chr9	109195972	109196121
+DOID:10286	prostate carcinoma	chr2	241800464	242091830
+DOID:10286	prostate carcinoma	chr2	238016838	238113846
+DOID:10286	prostate carcinoma	chr19	56037076	56056615
+DOID:10286	prostate carcinoma	chr10	51161131	51219502
+DOID:10286	prostate carcinoma	chr8	25937540	25991306
+DOID:10286	prostate carcinoma	chr3	171544470	171640822
+DOID:10286	prostate carcinoma	chr5	1943877	1950338
+DOID:10286	prostate carcinoma	chr19	46677427	46701513
+DOID:10286	prostate carcinoma	chr2	10007695	10059524
+DOID:10286	prostate carcinoma	chr6	160623348	160804265
+DOID:10286	prostate carcinoma	chr6	160501364	160501364
+DOID:10286	prostate carcinoma	chr11	68731131	68793652
+DOID:10286	prostate carcinoma	chr8	128541824	128617124
+DOID:10286	prostate carcinoma	chr10	104211844	104588596
+DOID:10286	prostate carcinoma	chr8	128146328	128304264
+DOID:10286	prostate carcinoma	chr6	117200338	117367472
+DOID:10286	prostate carcinoma	chr4	106268596	106484797
+DOID:10286	prostate carcinoma	chr12	113137019	113171694
+DOID:10286	prostate carcinoma	chr6	153409306	153510426
+DOID:10286	prostate carcinoma	chr22	41829088	41830156
+DOID:10286	prostate carcinoma	chr1	202716575	202873850
+DOID:10286	prostate carcinoma	chr18	74865328	74878240
+DOID:10286	prostate carcinoma	chr4	95657737	95814331
+DOID:10286	prostate carcinoma	chr8	128389528	128417799
+DOID:10286	prostate carcinoma	chr2	43355306	43443833
+DOID:10286	prostate carcinoma	chr20	60433132	60450476
+DOID:10286	prostate carcinoma	chr2	172994565	173424965
+DOID:10286	prostate carcinoma	chr14	52390996	52494411
+DOID:10286	prostate carcinoma	chr19	59476732	59501155
+DOID:10286	prostate carcinoma	chr1	153089531	153262127
+DOID:10286	prostate carcinoma	chr4	74551086	74737503
+DOID:10286	prostate carcinoma	chr6	109384601	109606885
+DOID:10286	prostate carcinoma	chr8	128168637	128180611
+DOID:10286	prostate carcinoma	chr8	128476625	128497820
+DOID:10286	prostate carcinoma	chr11	101901817	101917289
+DOID:10286	prostate carcinoma	chr3	87172274	87277527
+DOID:10286	prostate carcinoma	chr7	20961016	21031172
+DOID:10286	prostate carcinoma	chr13	72611876	72628672
+DOID:10286	prostate carcinoma	chr11	2162902	2194243
+DOID:10286	prostate carcinoma	chr7	97508090	97664276
+DOID:10286	prostate carcinoma	chr3	114520632	114791839
+DOID:10286	prostate carcinoma	chr20	61772239	61847383
+DOID:10286	prostate carcinoma	chr14	68196497	68205220
+DOID:10286	prostate carcinoma	chr17	66616533	66752467
+DOID:1040	chronic lymphocytic leukemia	chr6	33648187	33654815
+DOID:1040	chronic lymphocytic leukemia	chr11	122848471	122898721
+DOID:1040	chronic lymphocytic leukemia	chr6	32287416	32860822
+DOID:1040	chronic lymphocytic leukemia	chr16	84525223	84539102
+DOID:1040	chronic lymphocytic leukemia	chr15	54118898	54133040
+DOID:1040	chronic lymphocytic leukemia	chr18	55750142	55780452
+DOID:1040	chronic lymphocytic leukemia	chr6	154512917	154572672
+DOID:1040	chronic lymphocytic leukemia	chr8	103645125	103650795
+DOID:1040	chronic lymphocytic leukemia	chr4	114903293	114903293
+DOID:1040	chronic lymphocytic leukemia	chr2	201732194	201819625
+DOID:1040	chronic lymphocytic leukemia	chr9	22196987	22364032
+DOID:1040	chronic lymphocytic leukemia	chr3	170941266	171028346
+DOID:1040	chronic lymphocytic leukemia	chr15	67752509	67836165
+DOID:1040	chronic lymphocytic leukemia	chr7	124134673	124657436
+DOID:1040	chronic lymphocytic leukemia	chr4	109222008	109321454
+DOID:1040	chronic lymphocytic leukemia	chr19	51866733	51970699
+DOID:1040	chronic lymphocytic leukemia	chr15	54157784	54665523
+DOID:1040	chronic lymphocytic leukemia	chr2	111438038	111572764
+DOID:1040	chronic lymphocytic leukemia	chr2	111579909	111666032
+DOID:1040	chronic lymphocytic leukemia	chr2	111315429	111419803
+DOID:1040	chronic lymphocytic leukemia	chr6	348799	379915
+DOID:1040	chronic lymphocytic leukemia	chr18	58934191	58946168
+DOID:1040	chronic lymphocytic leukemia	chr11	2263998	2278226
+DOID:1040	chronic lymphocytic leukemia	chr10	90741496	90772807
+DOID:1040	chronic lymphocytic leukemia	chr16	84464397	84502577
+DOID:1040	chronic lymphocytic leukemia	chr2	230791415	230895411
+DOID:1040	chronic lymphocytic leukemia	chr8	128241868	128281862
+DOID:10608	celiac disease	chr1	190759518	190811722
+DOID:10608	celiac disease	chr6	128306618	128336402
+DOID:10608	celiac disease	chr6	159343875	159395821
+DOID:10608	celiac disease	chr18	12734692	12876441
+DOID:10608	celiac disease	chr12	110318171	110971201
+DOID:10608	celiac disease	chr3	161112778	161183019
+DOID:10608	celiac disease	chr2	61040333	61084518
+DOID:10608	celiac disease	chr3	189555207	189618477
+DOID:10608	celiac disease	chr1	199137377	199292473
+DOID:10608	celiac disease	chr1	25155443	25178370
+DOID:10608	celiac disease	chr2	181678176	181847353
+DOID:10608	celiac disease	chr6	138000928	138048197
+DOID:10608	celiac disease	chr2	102111286	102548705
+DOID:10608	celiac disease	chr21	44462932	44476912
+DOID:10608	celiac disease	chr2	204503357	204522921
+DOID:10608	celiac disease	chr1	2462004	2711009
+DOID:10608	celiac disease	chr6	90870920	91076025
+DOID:10608	celiac disease	chr11	127886184	127901948
+DOID:10608	celiac disease	chr3	32990473	33000114
+DOID:10608	celiac disease	chr16	11255775	11371764
+DOID:10608	celiac disease	chr2	68434534	68499783
+DOID:10608	celiac disease	chr3	120595588	120644672
+DOID:10608	celiac disease	chr3	45943047	46525847
+DOID:10608	celiac disease	chr4	123212446	123774240
+DOID:10608	celiac disease	chr10	80702538	80737486
+DOID:10608	celiac disease	chr8	129294684	129345888
+DOID:10652	Alzheimer's disease	chr2	127607897	127611085
+DOID:10652	Alzheimer's disease	chr8	27251038	27287935
+DOID:10652	Alzheimer's disease	chr1	205752409	205873353
+DOID:10652	Alzheimer's disease	chr8	27531239	27584979
+DOID:10652	Alzheimer's disease	chr9	3917256	3919424
+DOID:10652	Alzheimer's disease	chr3	192074605	192161437
+DOID:10652	Alzheimer's disease	chr6	40814344	41237230
+DOID:10652	Alzheimer's disease	chr6	41444079	41489179
+DOID:10652	Alzheimer's disease	chr14	52244673	52490634
+DOID:10652	Alzheimer's disease	chr11	59602405	59797872
+DOID:10652	Alzheimer's disease	chr6	47520875	47736517
+DOID:10652	Alzheimer's disease	chr7	99678397	100028052
+DOID:10652	Alzheimer's disease	chr19	56405177	56430729
+DOID:10652	Alzheimer's disease	chr14	91996705	92008135
+DOID:10652	Alzheimer's disease	chr11	120710741	120995015
+DOID:10652	Alzheimer's disease	chr8	27512170	27524420
+DOID:10652	Alzheimer's disease	chr19	992352	1040025
+DOID:10652	Alzheimer's disease	chr19	50072810	50074901
+DOID:10652	Alzheimer's disease	chr7	142820884	142820884
+DOID:10652	Alzheimer's disease	chr10	14048451	14062391
+DOID:10652	Alzheimer's disease	chr2	233694840	233755897
+DOID:10652	Alzheimer's disease	chr10	14031871	14031871
+DOID:10652	Alzheimer's disease	chr7	142809229	142819261
+DOID:10652	Alzheimer's disease	chr6	151229909	151249411
+DOID:10652	Alzheimer's disease	chr5	88251350	88259176
+DOID:10652	Alzheimer's disease	chr19	50079299	50107775
+DOID:10652	Alzheimer's disease	chr20	54414013	54458784
+DOID:10652	Alzheimer's disease	chr7	37669070	37855013
+DOID:10652	Alzheimer's disease	chr19	50065405	50068124
+DOID:10652	Alzheimer's disease	chr10	14056165	14057007
+DOID:10652	Alzheimer's disease	chr11	47233251	47886422
+DOID:10652	Alzheimer's disease	chr11	85348593	85553870
+DOID:10652	Alzheimer's disease	chr2	108996125	109007629
+DOID:1067	open-angle glaucoma	chr6	1866847	1932896
+DOID:1067	open-angle glaucoma	chr1	163937582	164010147
+DOID:1067	open-angle glaucoma	chr4	7834063	7987505
+DOID:1067	open-angle glaucoma	chr9	106730530	106736284
+DOID:1067	open-angle glaucoma	chr8	105961487	106051379
+DOID:1067	open-angle glaucoma	chr7	115928167	115970018
+DOID:1067	open-angle glaucoma	chr9	21993367	22111349
+DOID:1067	open-angle glaucoma	chr14	59858929	60178578
+DOID:10763	hypertension	chr16	20257960	20275191
+DOID:10763	hypertension	chr11	100020201	100148347
+DOID:10763	hypertension	chr12	88465680	88615913
+DOID:10763	hypertension	chr5	32810804	32877691
+DOID:10763	hypertension	chr6	76281039	76681908
+DOID:10763	hypertension	chr8	135590235	135662907
+DOID:10763	hypertension	chr1	70053634	70237715
+DOID:10763	hypertension	chr10	95864175	95939422
+DOID:10763	hypertension	chr20	15543231	15554421
+DOID:10763	hypertension	chr5	36422259	36467672
+DOID:10763	hypertension	chr20	57112829	57218225
+DOID:10763	hypertension	chr8	120420981	120454633
+DOID:10763	hypertension	chr2	82974238	83335703
+DOID:10763	hypertension	chr2	132889535	132913396
+DOID:10871	age related macular degeneration	chr16	55543015	55552395
+DOID:10871	age related macular degeneration	chr15	56459057	56474895
+DOID:10871	age related macular degeneration	chr4	110833800	110878516
+DOID:10871	age related macular degeneration	chr22	36780237	36833918
+DOID:10871	age related macular degeneration	chr3	100859886	101315599
+DOID:10871	age related macular degeneration	chr19	6661782	6669387
+DOID:10871	age related macular degeneration	chr15	56458851	56497919
+DOID:10871	age related macular degeneration	chr16	55554734	55564330
+DOID:10871	age related macular degeneration	chr4	110734920	110830804
+DOID:10871	age related macular degeneration	chr14	67797259	67885014
+DOID:10871	age related macular degeneration	chr6	43913274	43937607
+DOID:10871	age related macular degeneration	chr1	194912799	195204159
+DOID:10871	age related macular degeneration	chr10	124192116	124225345
+DOID:10871	age related macular degeneration	chr13	30600139	30736868
+DOID:10871	age related macular degeneration	chr3	64674485	64705161
+DOID:10871	age related macular degeneration	chr4	57396136	57591456
+DOID:10871	age related macular degeneration	chr9	100898203	100979428
+DOID:10871	age related macular degeneration	chr6	116342339	116695299
+DOID:1094	attention deficit hyperactivity disorder	chr10	18641934	18641934
+DOID:1094	attention deficit hyperactivity disorder	chr1	98148833	98331612
+DOID:1094	attention deficit hyperactivity disorder	chr2	193623596	193692866
+DOID:1094	attention deficit hyperactivity disorder	chr6	152749618	152911419
+DOID:1094	attention deficit hyperactivity disorder	chr10	61730388	61978525
+DOID:1094	attention deficit hyperactivity disorder	chr8	89534619	89830279
+DOID:1094	attention deficit hyperactivity disorder	chr3	52511554	52830269
+DOID:1094	attention deficit hyperactivity disorder	chr8	4164639	4198154
+DOID:1094	attention deficit hyperactivity disorder	chr18	50898687	50903698
+DOID:1094	attention deficit hyperactivity disorder	chr11	78734745	78764610
+DOID:1094	attention deficit hyperactivity disorder	chr12	2162951	2284064
+DOID:1094	attention deficit hyperactivity disorder	chr10	104603345	104953041
+DOID:10941	intracranial aneurysm	chr8	55568620	55645291
+DOID:10941	intracranial aneurysm	chr10	104494554	104949178
+DOID:10941	intracranial aneurysm	chr8	55450702	55493681
+DOID:10941	intracranial aneurysm	chr18	18397748	18544635
+DOID:10941	intracranial aneurysm	chr4	148583290	148646953
+DOID:10941	intracranial aneurysm	chr13	32570530	32626353
+DOID:10941	intracranial aneurysm	chr9	22055002	22115503
+DOID:10941	intracranial aneurysm	chr2	197854626	198660882
+DOID:10976	membranous glomerulonephritis	chr2	160590312	160785326
+DOID:1107	esophageal carcinoma	chr4	100458342	100458342
+DOID:1107	esophageal carcinoma	chr2	217188474	217219345
+DOID:1107	esophageal carcinoma	chr6	40903100	40929002
+DOID:1107	esophageal carcinoma	chr21	35279731	35291943
+DOID:1107	esophageal carcinoma	chr16	48580605	48716777
+DOID:1107	esophageal carcinoma	chr17	37137498	37150870
+DOID:1107	esophageal carcinoma	chr13	103831198	103869448
+DOID:1107	esophageal carcinoma	chr10	96002940	96118572
+DOID:1107	esophageal carcinoma	chr22	27480044	27688802
+DOID:1107	esophageal carcinoma	chr5	58443528	58443528
+DOID:1107	esophageal carcinoma	chr3	188273951	188302375
+DOID:1107	esophageal carcinoma	chr18	12763553	12872359
+DOID:1107	esophageal carcinoma	chr17	1953754	2169075
+DOID:1107	esophageal carcinoma	chr5	148842039	148996714
+DOID:1107	esophageal carcinoma	chr22	26973456	27461129
+DOID:11119	Gilles de la Tourette syndrome	chr9	116019873	116043084
+DOID:11476	osteoporosis	chr1	111965069	112064349
+DOID:11476	osteoporosis	chr3	170418564	170456909
+DOID:11476	osteoporosis	chr8	119926290	120132723
+DOID:11476	osteoporosis	chr2	200385171	200558647
+DOID:11612	polycystic ovary syndrome	chr2	48714455	48850190
+DOID:11612	polycystic ovary syndrome	chr2	43396011	43679584
+DOID:11612	polycystic ovary syndrome	chr12	54655773	54768447
+DOID:11612	polycystic ovary syndrome	chr19	7117109	7117541
+DOID:11612	polycystic ovary syndrome	chr2	49023539	49080825
+DOID:11612	polycystic ovary syndrome	chr9	125330375	125755096
+DOID:11612	polycystic ovary syndrome	chr11	101499108	101636444
+DOID:11612	polycystic ovary syndrome	chr9	96781157	96781157
+DOID:11612	polycystic ovary syndrome	chr20	51854904	51902807
+DOID:11612	polycystic ovary syndrome	chr16	50871897	50905320
+DOID:11612	polycystic ovary syndrome	chr12	64450784	64821992
+DOID:11714	gestational diabetes	chr11	92308474	92365451
+DOID:11714	gestational diabetes	chr6	20738376	20811931
+DOID:11782	astigmatism	chr1	246419872	246661385
+DOID:11782	astigmatism	chr2	219452118	219539914
+DOID:11782	astigmatism	chr4	54751979	54820749
+DOID:11782	astigmatism	chr2	145817694	146032789
+DOID:11782	astigmatism	chr1	150721215	150799739
+DOID:11782	astigmatism	chr1	150264639	150402854
+DOID:11829	degenerative myopia	chr13	23194787	23375498
+DOID:11829	degenerative myopia	chr5	39852056	40252528
+DOID:11829	degenerative myopia	chr13	22186284	22192133
+DOID:11829	degenerative myopia	chr19	49580116	49776269
+DOID:11829	degenerative myopia	chr4	189357902	189359271
+DOID:11829	degenerative myopia	chr1	247028893	247137334
+DOID:11829	degenerative myopia	chr12	76406056	76529182
+DOID:11829	degenerative myopia	chr5	150445094	150453867
+DOID:11829	degenerative myopia	chr15	72054518	72113770
+DOID:11829	degenerative myopia	chr10	115165138	115265317
+DOID:11829	degenerative myopia	chr6	147991096	148020557
+DOID:11829	degenerative myopia	chr4	10310752	10423623
+DOID:11829	degenerative myopia	chr8	121628382	121699921
+DOID:11829	degenerative myopia	chr11	128087767	128087767
+DOID:11829	degenerative myopia	chr17	26357642	26357642
+DOID:11829	degenerative myopia	chr3	145020230	145578057
+DOID:11829	degenerative myopia	chr3	86332091	86461637
+DOID:11829	degenerative myopia	chr17	3278146	3339836
+DOID:11829	degenerative myopia	chr13	72610356	72647746
+DOID:11829	degenerative myopia	chr10	6355800	6355800
+DOID:11829	degenerative myopia	chr13	44609454	44805922
+DOID:11829	degenerative myopia	chr7	157031341	157098636
+DOID:11829	degenerative myopia	chr7	158524467	158584503
+DOID:11829	degenerative myopia	chr5	7421845	7500651
+DOID:11829	degenerative myopia	chr6	108124364	108155597
+DOID:11829	degenerative myopia	chr3	187945775	187954255
+DOID:11829	degenerative myopia	chr19	35673479	35730835
+DOID:11829	degenerative myopia	chr9	125154609	125202042
+DOID:11829	degenerative myopia	chr1	99199204	99313415
+DOID:11829	degenerative myopia	chr13	104864287	104894896
+DOID:11829	degenerative myopia	chr8	56760399	56764515
+DOID:11829	degenerative myopia	chr2	144938508	144972978
+DOID:11829	degenerative myopia	chr4	24145819	24556370
+DOID:11829	degenerative myopia	chr8	82226622	82314302
+DOID:11829	degenerative myopia	chr16	58793572	59291104
+DOID:11829	degenerative myopia	chr7	37952857	37980441
+DOID:11949	Creutzfeldt-Jakob disease	chr20	4615950	4632286
+DOID:11949	Creutzfeldt-Jakob disease	chr8	17222421	17277335
+DOID:11949	Creutzfeldt-Jakob disease	chr2	100777770	100806587
+DOID:12236	primary biliary cirrhosis	chr19	55615905	55620954
+DOID:12236	primary biliary cirrhosis	chr12	6310270	6325359
+DOID:12236	primary biliary cirrhosis	chr11	63769486	63897382
+DOID:12236	primary biliary cirrhosis	chr3	120594560	120747877
+DOID:12236	primary biliary cirrhosis	chr1	67549995	67687075
+DOID:12236	primary biliary cirrhosis	chr14	102628594	102644823
+DOID:12236	primary biliary cirrhosis	chr17	35158633	35378872
+DOID:12236	primary biliary cirrhosis	chr5	35839334	36064208
+DOID:12236	primary biliary cirrhosis	chr3	161202965	161230509
+DOID:12236	primary biliary cirrhosis	chr7	37339139	37404444
+DOID:12236	primary biliary cirrhosis	chr4	103663563	103871006
+DOID:12236	primary biliary cirrhosis	chr1	195609003	196094067
+DOID:12236	primary biliary cirrhosis	chr14	67797259	67885014
+DOID:12236	primary biliary cirrhosis	chr2	191144865	191361958
+DOID:12236	primary biliary cirrhosis	chr11	118080536	118251094
+DOID:12236	primary biliary cirrhosis	chr3	16884789	17094242
+DOID:12236	primary biliary cirrhosis	chr16	10927756	11148355
+DOID:12236	primary biliary cirrhosis	chr7	128372852	128509473
+DOID:12236	primary biliary cirrhosis	chr16	84559404	84577017
+DOID:12236	primary biliary cirrhosis	chr22	37992496	38086596
+DOID:12306	vitiligo	chr12	54655773	54768447
+DOID:12306	vitiligo	chr1	8307646	8815164
+DOID:12306	vitiligo	chr10	115428194	115505110
+DOID:12306	vitiligo	chr6	167279548	167371301
+DOID:12306	vitiligo	chr8	133986770	134049054
+DOID:12306	vitiligo	chr11	35197805	35338700
+DOID:12306	vitiligo	chr11	94938476	94960456
+DOID:12306	vitiligo	chr11	88336186	88696262
+DOID:12306	vitiligo	chr12	110318171	110684533
+DOID:12306	vitiligo	chr16	88209507	88436902
+DOID:12306	vitiligo	chr22	40039980	40546272
+DOID:12306	vitiligo	chr14	24115429	24229327
+DOID:12306	vitiligo	chr3	120759067	120780079
+DOID:12306	vitiligo	chr11	118081972	118235879
+DOID:12306	vitiligo	chr15	26030454	26084086
+DOID:12306	vitiligo	chr10	6135583	6199504
+DOID:12306	vitiligo	chr22	35911431	35929011
+DOID:12306	vitiligo	chr10	72805925	72842736
+DOID:12306	vitiligo	chr4	10310752	10423623
+DOID:12306	vitiligo	chr3	189555207	189618477
+DOID:12306	vitiligo	chr21	42691725	42714896
+DOID:12306	vitiligo	chr6	90906885	91072414
+DOID:12306	vitiligo	chr2	162784392	162945636
+DOID:12361	Graves' disease	chr6	33925774	33925907
+DOID:12361	Graves' disease	chr8	134133955	134258320
+DOID:12361	Graves' disease	chr6	167286384	167420552
+DOID:12361	Graves' disease	chr1	158689660	158735380
+DOID:12361	Graves' disease	chr1	155888459	156077799
+DOID:12361	Graves' disease	chr2	204398600	204504339
+DOID:12361	Graves' disease	chr22	35911431	35929011
+DOID:12361	Graves' disease	chr14	97531630	97568704
+DOID:12361	Graves' disease	chr9	135126886	135144821
+DOID:12361	Graves' disease	chr14	80368027	80540052
+DOID:12361	Graves' disease	chr4	39968311	40003143
+DOID:12361	Graves' disease	chr6	33724806	33726140
+DOID:12365	malaria	chr9	135092974	135346269
+DOID:12365	malaria	chr11	5182211	5189951
+DOID:12365	malaria	chr11	4726208	4812023
+DOID:12849	autistic disorder	chr5	25910678	26144073
+DOID:12930	dilated cardiomyopathy	chr10	121405675	121423665
+DOID:12930	dilated cardiomyopathy	chr1	15998794	16231519
+DOID:12995	conduct disorder	chr11	92268860	92362313
+DOID:12995	conduct disorder	chr4	14956347	15116152
+DOID:1312	focal segmental glomerulosclerosis	chr22	34966740	34994285
+DOID:13189	gout	chr4	9529704	9990427
+DOID:13189	gout	chr4	89106351	89273691
+DOID:13223	uterine fibroid	chr22	38858166	39048046
+DOID:13223	uterine fibroid	chr11	182716	231523
+DOID:13241	Behcet's disease	chr1	67507070	67537186
+DOID:13241	Behcet's disease	chr12	10415387	10535980
+DOID:13241	Behcet's disease	chr1	205010856	205022033
+DOID:13241	Behcet's disease	chr5	96135967	96223958
+DOID:13241	Behcet's disease	chr3	46076778	46233906
+DOID:13241	Behcet's disease	chr2	191717700	191738636
+DOID:13378	Kawasaki disease	chr20	44188518	44215568
+DOID:13378	Kawasaki disease	chr20	44106953	44182658
+DOID:13378	Kawasaki disease	chr4	185800221	185892749
+DOID:13378	Kawasaki disease	chr1	159724261	159746369
+DOID:13378	Kawasaki disease	chr19	45840592	45981596
+DOID:13378	Kawasaki disease	chr8	11328365	11435744
+DOID:13641	exfoliation syndrome	chr15	72006635	72025787
+DOID:1380	endometrial cancer	chr17	33170413	33178234
+DOID:13922	eosinophilic esophagitis	chr15	29300888	29332325
+DOID:13922	eosinophilic esophagitis	chr8	10856067	11111446
+DOID:13922	eosinophilic esophagitis	chr5	110433574	110507509
+DOID:13922	eosinophilic esophagitis	chr2	31245404	31296379
+DOID:13922	eosinophilic esophagitis	chr16	83135742	83148550
+DOID:14004	thoracic aortic aneurysm	chr15	46473133	46731855
+DOID:14221	metabolic syndrome X	chr11	92308474	92365451
+DOID:14221	metabolic syndrome X	chr16	55543015	55552395
+DOID:14221	metabolic syndrome X	chr2	27410225	27706749
+DOID:14221	metabolic syndrome X	chr11	47149943	47316988
+DOID:14221	metabolic syndrome X	chr7	72467373	72695953
+DOID:14221	metabolic syndrome X	chr16	55556073	55564952
+DOID:14221	metabolic syndrome X	chr11	116024568	116168917
+DOID:14221	metabolic syndrome X	chr19	50079299	50088505
+DOID:14221	metabolic syndrome X	chr2	20984945	21093869
+DOID:14221	metabolic syndrome X	chr16	66234502	66846814
+DOID:14221	metabolic syndrome X	chr7	14991479	15032570
+DOID:14221	metabolic syndrome X	chr1	228360153	228390690
+DOID:14221	metabolic syndrome X	chr15	56461343	56475172
+DOID:14221	metabolic syndrome X	chr11	116038377	116165896
+DOID:14221	metabolic syndrome X	chr16	52356024	52402988
+DOID:14221	metabolic syndrome X	chr8	19859536	19983329
+DOID:14221	metabolic syndrome X	chr8	9215142	9258617
+DOID:14221	metabolic syndrome X	chr2	169461661	169522901
+DOID:14221	metabolic syndrome X	chr2	55529443	55809727
+DOID:14221	metabolic syndrome X	chr9	106679235	106706968
+DOID:14221	metabolic syndrome X	chr7	44189327	44226396
+DOID:14227	azoospermia	chr20	1707590	1708811
+DOID:14227	azoospermia	chr12	24047142	24162817
+DOID:14227	azoospermia	chr1	106871669	107204815
+DOID:14227	azoospermia	chr1	2358092	2392359
+DOID:14268	sclerosing cholangitis	chr2	241212412	241218365
+DOID:14268	sclerosing cholangitis	chr2	111591170	111740313
+DOID:14268	sclerosing cholangitis	chr3	49297031	49771395
+DOID:14268	sclerosing cholangitis	chr18	51358205	51427587
+DOID:14330	Parkinson's disease	chr4	686848	979713
+DOID:14330	Parkinson's disease	chr12	39537821	39758129
+DOID:14330	Parkinson's disease	chr18	38926962	39071602
+DOID:14330	Parkinson's disease	chr12	38670169	38910577
+DOID:14330	Parkinson's disease	chr1	153071612	153192613
+DOID:14330	Parkinson's disease	chr1	204010841	204029569
+DOID:14330	Parkinson's disease	chr4	15294149	15352430
+DOID:14330	Parkinson's disease	chr3	184190781	184344829
+DOID:14330	Parkinson's disease	chr4	90845134	90976971
+DOID:14330	Parkinson's disease	chr17	41711875	42220763
+DOID:14330	Parkinson's disease	chr4	77404903	77632203
+DOID:14330	Parkinson's disease	chr2	168800188	168865153
+DOID:14330	Parkinson's disease	chr1	101644880	101749141
+DOID:1459	hypothyroidism	chr12	110192841	110684533
+DOID:1459	hypothyroidism	chr9	99564143	99628660
+DOID:1459	hypothyroidism	chr1	113891441	114252487
+DOID:1459	hypothyroidism	chr1	108004402	108211188
+DOID:1595	endogenous depression	chr10	18641934	18641934
+DOID:1595	endogenous depression	chr6	152749618	152911419
+DOID:1595	endogenous depression	chr18	50898687	50903698
+DOID:1595	endogenous depression	chr11	10331152	10356056
+DOID:1595	endogenous depression	chr1	98148833	98331612
+DOID:1595	endogenous depression	chr3	52511554	52830269
+DOID:1595	endogenous depression	chr2	193623596	193692866
+DOID:1595	endogenous depression	chr12	2162951	2284064
+DOID:1595	endogenous depression	chr8	89534619	89830279
+DOID:1595	endogenous depression	chr8	4164639	4198154
+DOID:1595	endogenous depression	chr11	78734745	78764610
+DOID:1595	endogenous depression	chr10	61730388	61978525
+DOID:1595	endogenous depression	chr10	104603345	104953041
+DOID:1686	glaucoma	chr11	16957440	17041768
+DOID:1686	glaucoma	chr1	102978904	103179480
+DOID:1686	glaucoma	chr9	21993367	22111349
+DOID:1686	glaucoma	chr1	163937582	164010147
+DOID:1686	glaucoma	chr8	52980204	53091696
+DOID:1749	squamous cell carcinoma	chr3	190718983	190873394
+DOID:1749	squamous cell carcinoma	chr6	40600086	40682837
+DOID:1749	squamous cell carcinoma	chr22	27480044	27688802
+DOID:1749	squamous cell carcinoma	chr17	37137498	37150870
+DOID:1749	squamous cell carcinoma	chr3	188273951	188302375
+DOID:1749	squamous cell carcinoma	chr16	48580605	48716777
+DOID:1749	squamous cell carcinoma	chr18	12763553	12872359
+DOID:1749	squamous cell carcinoma	chr17	1953754	2169075
+DOID:1749	squamous cell carcinoma	chr7	21544868	21579145
+DOID:1749	squamous cell carcinoma	chr22	26973456	27461129
+DOID:1826	epilepsy syndrome	chr2	145057729	145128741
+DOID:1826	epilepsy syndrome	chr1	198954410	199119413
+DOID:1826	epilepsy syndrome	chr1	238036720	238049261
+DOID:1826	epilepsy syndrome	chr4	30716743	30779384
+DOID:1826	epilepsy syndrome	chr2	57770726	57841698
+DOID:1826	epilepsy syndrome	chr11	102081568	102105916
+DOID:1826	epilepsy syndrome	chr17	43296793	43909455
+DOID:1883	hepatitis C	chr2	112373379	112504298
+DOID:1883	hepatitis C	chr3	142913653	142964731
+DOID:1909	melanoma	chr16	52672325	52689440
+DOID:1909	melanoma	chr2	201822869	201949408
+DOID:1909	melanoma	chr20	32545832	33106057
+DOID:1909	melanoma	chr21	41651707	41668438
+DOID:1909	melanoma	chr1	148803981	149226974
+DOID:1909	melanoma	chr16	88199656	88638299
+DOID:1909	melanoma	chr11	107382349	107873355
+DOID:1909	melanoma	chr22	36836634	36944041
+DOID:1909	melanoma	chr10	107413845	107570808
+DOID:1909	melanoma	chr11	88336186	88696262
+DOID:1909	melanoma	chr5	1353429	1409944
+DOID:1909	melanoma	chr9	21683409	21818242
+DOID:1936	atherosclerosis	chr8	123388535	123512276
+DOID:1936	atherosclerosis	chr7	106192878	106206532
+DOID:1936	atherosclerosis	chr19	50080081	50107480
+DOID:1936	atherosclerosis	chr4	148583290	148646953
+DOID:1936	atherosclerosis	chr8	10277612	10769460
+DOID:2043	hepatitis B	chr22	20246166	20328833
+DOID:2377	multiple sclerosis	chr1	190759518	190811722
+DOID:2377	multiple sclerosis	chr2	112370480	112539791
+DOID:2377	multiple sclerosis	chr8	128853579	128884211
+DOID:2377	multiple sclerosis	chr16	84559404	84577017
+DOID:2377	multiple sclerosis	chr3	103192200	103247972
+DOID:2377	multiple sclerosis	chr19	54480017	54610626
+DOID:2377	multiple sclerosis	chr17	37719618	37818156
+DOID:2377	multiple sclerosis	chr6	135666504	136052491
+DOID:2377	multiple sclerosis	chr2	230791415	230879667
+DOID:2377	multiple sclerosis	chr12	56333980	56517422
+DOID:2377	multiple sclerosis	chr5	40325495	40586802
+DOID:2377	multiple sclerosis	chr1	116838074	116905738
+DOID:2377	multiple sclerosis	chr12	6310270	6325359
+DOID:2377	multiple sclerosis	chr12	9724895	9790891
+DOID:2377	multiple sclerosis	chr2	43195843	43214893
+DOID:2377	multiple sclerosis	chr11	60524620	60550298
+DOID:2377	multiple sclerosis	chr3	122833263	123211952
+DOID:2377	multiple sclerosis	chr1	199135485	199292473
+DOID:2377	multiple sclerosis	chr20	44106953	44182658
+DOID:2377	multiple sclerosis	chr9	5872401	5883861
+DOID:2377	multiple sclerosis	chr1	92713945	93203912
+DOID:2377	multiple sclerosis	chr20	52221420	52234609
+DOID:2377	multiple sclerosis	chr10	80702891	80739419
+DOID:2377	multiple sclerosis	chr19	18071922	18219107
+DOID:2377	multiple sclerosis	chr6	138002706	138055358
+DOID:2377	multiple sclerosis	chr16	10942460	11187414
+DOID:2377	multiple sclerosis	chr22	20427006	20672195
+DOID:2377	multiple sclerosis	chr3	28043398	28054089
+DOID:2377	multiple sclerosis	chr3	27732022	27806982
+DOID:2377	multiple sclerosis	chr1	2473821	2711009
+DOID:2377	multiple sclerosis	chr14	87460784	87711088
+DOID:2377	multiple sclerosis	chr7	148801169	148994073
+DOID:2377	multiple sclerosis	chr10	94192885	94482696
+DOID:2377	multiple sclerosis	chr2	43174729	43179074
+DOID:2377	multiple sclerosis	chr6	128306618	128336402
+DOID:2377	multiple sclerosis	chr6	159343875	159395821
+DOID:2377	multiple sclerosis	chr1	101066341	101361763
+DOID:2377	multiple sclerosis	chr22	49306967	49325797
+DOID:2377	multiple sclerosis	chr14	68302270	68372152
+DOID:2377	multiple sclerosis	chr3	123230041	123298305
+DOID:2377	multiple sclerosis	chr14	75071810	75098694
+DOID:2377	multiple sclerosis	chr5	158662946	158698600
+DOID:2377	multiple sclerosis	chr8	129227087	129293781
+DOID:2377	multiple sclerosis	chr19	6612983	6626230
+DOID:2377	multiple sclerosis	chr6	90875874	91069588
+DOID:2377	multiple sclerosis	chr6	32220604	32786184
+DOID:2377	multiple sclerosis	chr11	60586071	60591619
+DOID:2377	multiple sclerosis	chr2	68451283	68514348
+DOID:2377	multiple sclerosis	chr3	120594560	120747877
+DOID:2377	multiple sclerosis	chr10	6135416	6201787
+DOID:2377	multiple sclerosis	chr18	54488276	54607213
+DOID:2377	multiple sclerosis	chr5	35839334	36021152
+DOID:2377	multiple sclerosis	chr11	60517188	60578945
+DOID:2377	multiple sclerosis	chr3	106978531	107149390
+DOID:2377	multiple sclerosis	chr6	137448792	137494601
+DOID:2468	psychotic disorder	chr9	120366230	120404688
+DOID:2468	psychotic disorder	chr11	10331152	10356056
+DOID:2468	psychotic disorder	chr6	89769409	89795940
+DOID:2513	basal cell carcinoma	chr1	227010426	227101267
+DOID:2513	basal cell carcinoma	chr8	101068813	101160745
+DOID:2513	basal cell carcinoma	chr7	130231898	130236163
+DOID:2513	basal cell carcinoma	chr13	98579379	98892872
+DOID:2513	basal cell carcinoma	chr6	416136	420489
+DOID:2513	basal cell carcinoma	chr9	21985882	22062719
+DOID:2513	basal cell carcinoma	chr20	2168310	2181776
+DOID:2513	basal cell carcinoma	chr1	17580936	17647431
+DOID:2513	basal cell carcinoma	chr5	1353429	1409944
+DOID:2513	basal cell carcinoma	chr16	88202820	88638299
+DOID:2513	basal cell carcinoma	chr20	2206798	2240273
+DOID:2841	asthma	chr15	65228804	65255339
+DOID:2841	asthma	chr12	54655773	54768447
+DOID:2841	asthma	chr6	32692603	32745756
+DOID:2841	asthma	chr5	59266164	59605280
+DOID:2841	asthma	chr2	102224922	102459016
+DOID:2841	asthma	chr17	35158633	35378872
+DOID:2841	asthma	chr9	6136121	6233392
+DOID:2841	asthma	chr6	32537223	32785890
+DOID:2841	asthma	chr12	54650588	54650588
+DOID:2841	asthma	chr8	81409214	81491279
+DOID:2841	asthma	chr11	75948331	75979721
+DOID:2841	asthma	chr4	144144818	144251462
+DOID:2841	asthma	chr16	10939242	11188719
+DOID:2841	asthma	chr1	195578785	196088392
+DOID:2841	asthma	chr1	152661836	152693594
+DOID:2841	asthma	chr5	110429771	110429771
+DOID:2841	asthma	chr10	8980400	9016050
+DOID:2841	asthma	chr5	110433574	110507509
+DOID:2841	asthma	chr22	35859670	35867460
+DOID:2841	asthma	chr4	38436733	38582126
+DOID:2841	asthma	chr8	118026482	118113945
+DOID:289	endometriosis	chr2	11636042	11667552
+DOID:289	endometriosis	chr9	22131269	22186863
+DOID:289	endometriosis	chr1	22275944	22365474
+DOID:289	endometriosis	chr7	25820676	25868164
+DOID:289	endometriosis	chr6	19814101	19931231
+DOID:289	endometriosis	chr12	94125715	94241628
+DOID:2986	IgA glomerulonephritis	chr17	7379411	7474148
+DOID:2986	IgA glomerulonephritis	chr17	7386805	7403693
+DOID:2986	IgA glomerulonephritis	chr8	6796132	6816057
+DOID:2986	IgA glomerulonephritis	chr22	28460115	28920222
+DOID:2986	IgA glomerulonephritis	chr6	32326051	32790115
+DOID:3083	chronic obstructive pulmonary disease	chr11	102212515	102279208
+DOID:3083	chronic obstructive pulmonary disease	chr16	82953686	82980535
+DOID:3083	chronic obstructive pulmonary disease	chr10	81579987	82185199
+DOID:3083	chronic obstructive pulmonary disease	chr15	76506556	76876166
+DOID:3083	chronic obstructive pulmonary disease	chr11	61942174	61953299
+DOID:3083	chronic obstructive pulmonary disease	chr11	61780979	61955630
+DOID:3083	chronic obstructive pulmonary disease	chr19	45961128	46018266
+DOID:3083	chronic obstructive pulmonary disease	chr14	92138269	92187982
+DOID:3083	chronic obstructive pulmonary disease	chr10	81663324	81748055
+DOID:3083	chronic obstructive pulmonary disease	chr4	145654034	145735828
+DOID:3083	chronic obstructive pulmonary disease	chr4	89969384	90296113
+DOID:3083	chronic obstructive pulmonary disease	chr1	216658246	216701702
+DOID:3083	chronic obstructive pulmonary disease	chr11	34733108	34776105
+DOID:3310	atopic dermatitis	chr20	52166293	52251869
+DOID:3310	atopic dermatitis	chr7	3075951	3122557
+DOID:3310	atopic dermatitis	chr10	64057114	64111210
+DOID:3310	atopic dermatitis	chr1	150651569	150719299
+DOID:3310	atopic dermatitis	chr5	132040624	132088482
+DOID:3310	atopic dermatitis	chr2	102111286	102548705
+DOID:3310	atopic dermatitis	chr11	65303909	65315842
+DOID:3310	atopic dermatitis	chr1	150426585	150638659
+DOID:3310	atopic dermatitis	chr3	113858998	113890080
+DOID:3310	atopic dermatitis	chr3	33027754	33041471
+DOID:3310	atopic dermatitis	chr11	75948331	75979721
+DOID:3310	atopic dermatitis	chr19	8637880	8657160
+DOID:3310	atopic dermatitis	chr11	7890169	7955760
+DOID:3310	atopic dermatitis	chr5	131960652	132024568
+DOID:3312	bipolar disorder	chr10	18641934	18641934
+DOID:3312	bipolar disorder	chr3	1832047	1883154
+DOID:3312	bipolar disorder	chr19	19211103	19586456
+DOID:3312	bipolar disorder	chr6	152749618	152911419
+DOID:3312	bipolar disorder	chr1	78958791	79032638
+DOID:3312	bipolar disorder	chr8	4222088	4235188
+DOID:3312	bipolar disorder	chr1	209983479	210400011
+DOID:3312	bipolar disorder	chr10	114870541	114878718
+DOID:3312	bipolar disorder	chr11	10331152	10356056
+DOID:3312	bipolar disorder	chr1	98148833	98331612
+DOID:3312	bipolar disorder	chr3	52511554	52830269
+DOID:3312	bipolar disorder	chr12	2162951	2284064
+DOID:3312	bipolar disorder	chr11	78734745	78830728
+DOID:3312	bipolar disorder	chr2	193623596	193692866
+DOID:3312	bipolar disorder	chr3	36817025	36935664
+DOID:3312	bipolar disorder	chr3	141852702	141852702
+DOID:3312	bipolar disorder	chr7	1818719	2188109
+DOID:3312	bipolar disorder	chr1	241569246	241707504
+DOID:3312	bipolar disorder	chr10	61730388	61996693
+DOID:3312	bipolar disorder	chr16	23365986	23611673
+DOID:3312	bipolar disorder	chr22	44333540	44347152
+DOID:3312	bipolar disorder	chr5	7546177	7636156
+DOID:3312	bipolar disorder	chr8	89534619	89830279
+DOID:3312	bipolar disorder	chr11	16995603	17277998
+DOID:3312	bipolar disorder	chr6	27327470	28311279
+DOID:3312	bipolar disorder	chr12	67065680	67065680
+DOID:3312	bipolar disorder	chr8	4164639	4198154
+DOID:3312	bipolar disorder	chr6	98499388	98698531
+DOID:3312	bipolar disorder	chr2	28938	252119
+DOID:3312	bipolar disorder	chr18	50898687	50903698
+DOID:3312	bipolar disorder	chr2	96715567	96827256
+DOID:3312	bipolar disorder	chr13	41551437	41599941
+DOID:3312	bipolar disorder	chr6	166068894	166111900
+DOID:3312	bipolar disorder	chr10	104603345	104953041
+DOID:332	amyotrophic lateral sclerosis	chr7	153837975	153851755
+DOID:332	amyotrophic lateral sclerosis	chr7	148834595	149318929
+DOID:332	amyotrophic lateral sclerosis	chr9	27474371	27568647
+DOID:332	amyotrophic lateral sclerosis	chr1	167972035	168376729
+DOID:332	amyotrophic lateral sclerosis	chr19	17603469	17614239
+DOID:332	amyotrophic lateral sclerosis	chr1	207764070	207788784
+DOID:332	amyotrophic lateral sclerosis	chr22	22727824	22956364
+DOID:3324	mood disorder	chr3	52219091	52813442
+DOID:3393	coronary artery disease	chr19	10915715	11044837
+DOID:3393	coronary artery disease	chr6	72226595	72323471
+DOID:3393	coronary artery disease	chr7	129450732	129472833
+DOID:3393	coronary artery disease	chr17	44312986	44402867
+DOID:3393	coronary artery disease	chr10	30331969	30375526
+DOID:3393	coronary artery disease	chr9	21993223	22115503
+DOID:3393	coronary artery disease	chr1	109616403	109623689
+DOID:3393	coronary artery disease	chr6	34690998	35426720
+DOID:3393	coronary artery disease	chr12	109793128	109842110
+DOID:3393	coronary artery disease	chr2	19809058	19842846
+DOID:3393	coronary artery disease	chr1	220852655	221015977
+DOID:3393	coronary artery disease	chr9	135126886	135229220
+DOID:3393	coronary artery disease	chr4	4984114	5452505
+DOID:3393	coronary artery disease	chr6	160686760	160894418
+DOID:3393	coronary artery disease	chr6	134212825	134267840
+DOID:3393	coronary artery disease	chr12	102769176	102860257
+DOID:3393	coronary artery disease	chr13	109752354	109759469
+DOID:3393	coronary artery disease	chr3	139535444	139606804
+DOID:3393	coronary artery disease	chr3	163551703	163742062
+DOID:3393	coronary artery disease	chr17	1963779	2163008
+DOID:3393	coronary artery disease	chr14	99181708	99220198
+DOID:3393	coronary artery disease	chr12	88487272	88612960
+DOID:3393	coronary artery disease	chr21	34515697	34594140
+DOID:3393	coronary artery disease	chr16	65524300	66116959
+DOID:3393	coronary artery disease	chr15	76731593	76911887
+DOID:3393	coronary artery disease	chr10	90978230	91002543
+DOID:3393	coronary artery disease	chr6	151291540	151303330
+DOID:3393	coronary artery disease	chr11	103155199	103241618
+DOID:3393	coronary artery disease	chr6	12903017	13011943
+DOID:3393	coronary artery disease	chr4	156669280	156736739
+DOID:3393	coronary artery disease	chr6	160728891	160804265
+DOID:3393	coronary artery disease	chr4	5314317	5451388
+DOID:3393	coronary artery disease	chr4	148583290	148646953
+DOID:3393	coronary artery disease	chr7	18998460	19026858
+DOID:3393	coronary artery disease	chr11	116038377	116165896
+DOID:3393	coronary artery disease	chr7	106573710	107051630
+DOID:3393	coronary artery disease	chr8	9215142	9261820
+DOID:3393	coronary artery disease	chr17	17365224	17573644
+DOID:3393	coronary artery disease	chr1	56688181	56788719
+DOID:3393	coronary artery disease	chr2	203262569	203904863
+DOID:3393	coronary artery disease	chr12	110318171	111037415
+DOID:3393	coronary artery disease	chr10	104494554	104949178
+DOID:3393	coronary artery disease	chr10	43988730	44126384
+DOID:3459	breast carcinoma	chr9	22052134	22052134
+DOID:3459	breast carcinoma	chr10	80504568	80525429
+DOID:3459	breast carcinoma	chr11	65328100	65491750
+DOID:3459	breast carcinoma	chr8	76331425	76420458
+DOID:3459	breast carcinoma	chr1	200443994	200467435
+DOID:3459	breast carcinoma	chr22	39133058	39379348
+DOID:3459	breast carcinoma	chr5	1332790	1335414
+DOID:3459	breast carcinoma	chr10	63938665	63971823
+DOID:3459	breast carcinoma	chr17	50334984	50626917
+DOID:3459	breast carcinoma	chr4	176058310	176105332
+DOID:3459	breast carcinoma	chr8	128390384	128458689
+DOID:3459	breast carcinoma	chr4	106283436	106421005
+DOID:3459	breast carcinoma	chr19	48973332	49000916
+DOID:3459	breast carcinoma	chr1	120866130	121060116
+DOID:3459	breast carcinoma	chr2	120954888	120963038
+DOID:3459	breast carcinoma	chr9	109921274	109979693
+DOID:3459	breast carcinoma	chr19	18371925	18513844
+DOID:3459	breast carcinoma	chr16	51094386	51209215
+DOID:3459	breast carcinoma	chr18	22774335	22879754
+DOID:3459	breast carcinoma	chr5	90612714	90826207
+DOID:3459	breast carcinoma	chr5	56019613	56306474
+DOID:3459	breast carcinoma	chr14	36162223	36206296
+DOID:3459	breast carcinoma	chr16	51095541	51192501
+DOID:3459	breast carcinoma	chr3	27096946	27513654
+DOID:3459	breast carcinoma	chr3	4703574	4740955
+DOID:3459	breast carcinoma	chr12	94551598	94551890
+DOID:3459	breast carcinoma	chr2	172675548	172682812
+DOID:3459	breast carcinoma	chr4	75638651	75766037
+DOID:3459	breast carcinoma	chr9	109343284	109364678
+DOID:3459	breast carcinoma	chr2	217958794	218065627
+DOID:3459	breast carcinoma	chr6	151757703	152011433
+DOID:3459	breast carcinoma	chr5	44678427	44980847
+DOID:3459	breast carcinoma	chr6	1261451	1266446
+DOID:3459	breast carcinoma	chr8	36778072	36978344
+DOID:3459	breast carcinoma	chr10	63755226	63864821
+DOID:3459	breast carcinoma	chr6	13746963	13849495
+DOID:3459	breast carcinoma	chr14	90909770	90947010
+DOID:3459	breast carcinoma	chr10	63878227	63933099
+DOID:3459	breast carcinoma	chr8	129212862	129294070
+DOID:3459	breast carcinoma	chr15	89303387	89352880
+DOID:3459	breast carcinoma	chr10	21927833	22425904
+DOID:3459	breast carcinoma	chr19	17215825	17312369
+DOID:3459	breast carcinoma	chr5	58246544	58431436
+DOID:3459	breast carcinoma	chr16	79198797	79229882
+DOID:3459	breast carcinoma	chr1	10447054	10561191
+DOID:3459	breast carcinoma	chr1	202716575	202873850
+DOID:3459	breast carcinoma	chr21	15410898	15486432
+DOID:3459	breast carcinoma	chr10	114736570	114808762
+DOID:3459	breast carcinoma	chr11	1862867	1904762
+DOID:3459	breast carcinoma	chr11	128959317	128981835
+DOID:3459	breast carcinoma	chr12	14297154	14313742
+DOID:3459	breast carcinoma	chr22	27951477	27951861
+DOID:3459	breast carcinoma	chr14	67364330	67795579
+DOID:3459	breast carcinoma	chr18	22585464	22593717
+DOID:3459	breast carcinoma	chr16	52355409	52402988
+DOID:3459	breast carcinoma	chr8	76457847	76772912
+DOID:3459	breast carcinoma	chr2	212857034	213037051
+DOID:3459	breast carcinoma	chr2	217614024	217629014
+DOID:3459	breast carcinoma	chr6	149605587	149652032
+DOID:3459	breast carcinoma	chr2	120800057	120806201
+DOID:3459	breast carcinoma	chr12	113340805	113366338
+DOID:3459	breast carcinoma	chr2	173912772	173946945
+DOID:3459	breast carcinoma	chr11	69037693	69041851
+DOID:3459	breast carcinoma	chr6	82149209	82427099
+DOID:3459	breast carcinoma	chr12	27982920	28074553
+DOID:3459	breast carcinoma	chr1	113877319	114252909
+DOID:3459	breast carcinoma	chr7	143705862	143770352
+DOID:3459	breast carcinoma	chr14	68044163	68116759
+DOID:3459	breast carcinoma	chr10	123322342	123343859
+DOID:3459	breast carcinoma	chr5	56044673	56226743
+DOID:3459	breast carcinoma	chr5	158117288	158196598
+DOID:3459	breast carcinoma	chr2	19173392	19187536
+DOID:3459	breast carcinoma	chr10	123082376	123085356
+DOID:3459	breast carcinoma	chr3	30641456	30664425
+DOID:3459	breast carcinoma	chr12	114297990	114322244
+DOID:3459	breast carcinoma	chr1	202022465	202223132
+DOID:3459	breast carcinoma	chr16	52410708	52435093
+DOID:3459	breast carcinoma	chr8	29540354	29586398
+DOID:3459	breast carcinoma	chr20	31977722	32209864
+DOID:3459	breast carcinoma	chr11	68992188	69026062
+DOID:3620	central nervous system cancer	chr9	21987015	22061751
+DOID:3620	central nervous system cancer	chr11	117982577	117995286
+DOID:3620	central nervous system cancer	chr5	1341547	1341547
+DOID:3620	central nervous system cancer	chr8	130695066	130754698
+DOID:3620	central nervous system cancer	chr3	171019331	171074560
+DOID:3620	central nervous system cancer	chr20	61681629	61854753
+DOID:3620	central nervous system cancer	chr8	130542382	130593634
+DOID:3620	central nervous system cancer	chr5	1330577	1340194
+DOID:3905	lung carcinoma	chr6	117830333	117930201
+DOID:3905	lung carcinoma	chr15	76506556	76839367
+DOID:3905	lung carcinoma	chr7	21544868	21579145
+DOID:3905	lung carcinoma	chr6	40600086	40682837
+DOID:3905	lung carcinoma	chr22	28460115	28920222
+DOID:3905	lung carcinoma	chr10	114440622	114496396
+DOID:3905	lung carcinoma	chr3	190718983	190873394
+DOID:3905	lung carcinoma	chr5	1330577	1340194
+DOID:3905	lung carcinoma	chr6	32448214	32785890
+DOID:3905	lung carcinoma	chr13	23171385	23321070
+DOID:3905	lung carcinoma	chr5	1353429	1409944
+DOID:3908	non-small cell lung carcinoma	chr12	99326955	99344216
+DOID:3908	non-small cell lung carcinoma	chr3	196304957	196365012
+DOID:3910	lung adenocarcinoma	chr5	1339516	1349486
+DOID:3910	lung adenocarcinoma	chr5	1353429	1409944
+DOID:3910	lung adenocarcinoma	chr3	190718938	190874751
+DOID:3910	lung adenocarcinoma	chr17	63248836	63492778
+DOID:3910	lung adenocarcinoma	chr15	76506556	76839367
+DOID:3963	thyroid carcinoma	chr2	217963774	218020843
+DOID:3963	thyroid carcinoma	chr14	35808112	35808112
+DOID:3963	thyroid carcinoma	chr14	35588373	35753530
+DOID:3963	thyroid carcinoma	chr8	32417393	32553664
+DOID:3963	thyroid carcinoma	chr9	99564143	99628660
+DOID:4001	ovarian carcinoma	chr17	43441503	43991624
+DOID:4001	ovarian carcinoma	chr4	166097413	166171885
+DOID:4001	ovarian carcinoma	chr17	33167135	33177985
+DOID:4001	ovarian carcinoma	chr8	129602828	129655958
+DOID:4001	ovarian carcinoma	chr9	16833013	16905874
+DOID:4001	ovarian carcinoma	chr19	17215825	17312369
+DOID:4001	ovarian carcinoma	chr8	82816199	82833326
+DOID:4001	ovarian carcinoma	chr10	21808566	22328138
+DOID:4001	ovarian carcinoma	chr3	157821222	158184507
+DOID:4001	ovarian carcinoma	chr2	176709538	176780435
+DOID:4001	ovarian carcinoma	chr17	41643933	42220763
+DOID:4007	bladder carcinoma	chr20	10840228	10944911
+DOID:4007	bladder carcinoma	chr4	1654935	1734313
+DOID:4007	bladder carcinoma	chr22	37646678	37668283
+DOID:4007	bladder carcinoma	chr3	170941266	171028346
+DOID:4007	bladder carcinoma	chr8	128782847	128795496
+DOID:4007	bladder carcinoma	chr3	191050512	191129210
+DOID:4007	bladder carcinoma	chr19	34932692	35020593
+DOID:4007	bladder carcinoma	chr11	1829808	1837172
+DOID:4007	bladder carcinoma	chr18	41557685	41658448
+DOID:4007	bladder carcinoma	chr12	36226840	37225324
+DOID:4007	bladder carcinoma	chr5	1353429	1409944
+DOID:4007	bladder carcinoma	chr8	143749996	143841652
+DOID:4007	bladder carcinoma	chr8	18285787	18335870
+DOID:418	systemic scleroderma	chr16	84540827	84572817
+DOID:418	systemic scleroderma	chr1	165671756	165704577
+DOID:418	systemic scleroderma	chr2	191608694	191681279
+DOID:418	systemic scleroderma	chr16	31179854	31277304
+DOID:418	systemic scleroderma	chr15	73072167	73237610
+DOID:418	systemic scleroderma	chr16	84522064	84538035
+DOID:418	systemic scleroderma	chr7	28108613	28198982
+DOID:418	systemic scleroderma	chr1	35482364	35906505
+DOID:418	systemic scleroderma	chr3	58205476	58443468
+DOID:418	systemic scleroderma	chr6	138109583	138270876
+DOID:418	systemic scleroderma	chr7	128372852	128509473
+DOID:418	systemic scleroderma	chr5	150415087	150440240
+DOID:418	systemic scleroderma	chr8	11360435	11401193
+DOID:4450	renal cell carcinoma	chr8	128958553	128958554
+DOID:4450	renal cell carcinoma	chr12	123884262	123886803
+DOID:4450	renal cell carcinoma	chr2	144505420	144926386
+DOID:4450	renal cell carcinoma	chr12	26331965	26382742
+DOID:4450	renal cell carcinoma	chr11	68825268	69001378
+DOID:4450	renal cell carcinoma	chr2	46378895	46401568
+DOID:4481	allergic rhinitis	chr8	81409214	81491279
+DOID:4481	allergic rhinitis	chr15	65228804	65255339
+DOID:4481	allergic rhinitis	chr2	102224922	102459016
+DOID:4481	allergic rhinitis	chr6	32692603	32745756
+DOID:4481	allergic rhinitis	chr4	38436733	38582126
+DOID:4481	allergic rhinitis	chr16	10939242	11188719
+DOID:4481	allergic rhinitis	chr5	109766970	110240367
+DOID:4481	allergic rhinitis	chr17	35344334	35388415
+DOID:4481	allergic rhinitis	chr5	110429771	110429771
+DOID:4481	allergic rhinitis	chr5	110433574	110507509
+DOID:4481	allergic rhinitis	chr9	6136121	6233392
+DOID:4481	allergic rhinitis	chr11	75948331	75979721
+DOID:4905	pancreatic carcinoma	chr5	39430746	39521065
+DOID:4905	pancreatic carcinoma	chr13	72774056	72824087
+DOID:4905	pancreatic carcinoma	chr21	42646016	42657551
+DOID:4905	pancreatic carcinoma	chr22	47283560	47308363
+DOID:4905	pancreatic carcinoma	chr1	198215897	198277447
+DOID:4905	pancreatic carcinoma	chr10	120242845	120328827
+DOID:4905	pancreatic carcinoma	chr9	135126886	135144821
+DOID:4905	pancreatic carcinoma	chr21	29454857	29675477
+DOID:4960	bone marrow cancer	chr9	4971602	5258264
+DOID:4989	pancreatitis	chr7	142112894	142208236
+DOID:5082	liver cirrhosis	chr2	112373379	112504298
+DOID:5082	liver cirrhosis	chr22	42656060	42725735
+DOID:5082	liver cirrhosis	chr3	142913653	142964731
+DOID:5408	Paget's disease of bone	chr15	72115629	72123686
+DOID:5408	Paget's disease of bone	chr14	92138269	92187982
+DOID:5408	Paget's disease of bone	chr7	134893513	135011213
+DOID:5408	Paget's disease of bone	chr8	105400391	105441500
+DOID:5408	Paget's disease of bone	chr10	13195732	13201415
+DOID:5408	Paget's disease of bone	chr18	58202179	58233073
+DOID:5408	Paget's disease of bone	chr1	110153228	110168618
+DOID:5419	schizophrenia	chr16	13574086	13671443
+DOID:5419	schizophrenia	chr5	137844882	137976039
+DOID:5419	schizophrenia	chr15	76499174	76713781
+DOID:5419	schizophrenia	chr3	17334920	17863260
+DOID:5419	schizophrenia	chr12	109146710	109459273
+DOID:5419	schizophrenia	chr15	68354243	68418154
+DOID:5419	schizophrenia	chr5	152229499	152634672
+DOID:5419	schizophrenia	chr6	152749618	152911419
+DOID:5419	schizophrenia	chr3	2493282	2549571
+DOID:5419	schizophrenia	chr9	83711201	84185809
+DOID:5419	schizophrenia	chr2	37440185	37446132
+DOID:5419	schizophrenia	chr11	133313248	133358218
+DOID:5419	schizophrenia	chr1	78958791	79032638
+DOID:5419	schizophrenia	chr5	109027411	109237241
+DOID:5419	schizophrenia	chr8	4222088	4235188
+DOID:5419	schizophrenia	chr7	86192043	86432315
+DOID:5419	schizophrenia	chr7	131189814	131238833
+DOID:5419	schizophrenia	chr15	82432129	82997248
+DOID:5419	schizophrenia	chr6	28333290	29314230
+DOID:5419	schizophrenia	chr6	26973737	27391233
+DOID:5419	schizophrenia	chr12	90767317	90782396
+DOID:5419	schizophrenia	chr11	24323915	24369568
+DOID:5419	schizophrenia	chr8	111526351	111698597
+DOID:5419	schizophrenia	chr14	98736932	98802169
+DOID:5419	schizophrenia	chr2	162504763	162618649
+DOID:5419	schizophrenia	chr10	18641934	18641934
+DOID:5419	schizophrenia	chr2	199737836	200022451
+DOID:5419	schizophrenia	chr6	73189466	73228602
+DOID:5419	schizophrenia	chr2	72210844	72412963
+DOID:5419	schizophrenia	chr3	52511554	52830269
+DOID:5419	schizophrenia	chr5	101609747	101890603
+DOID:5419	schizophrenia	chr8	38133586	38430067
+DOID:5419	schizophrenia	chr15	89217554	89230046
+DOID:5419	schizophrenia	chr7	110623436	111015684
+DOID:5419	schizophrenia	chr2	144856197	144903219
+DOID:5419	schizophrenia	chr1	98105111	98331612
+DOID:5419	schizophrenia	chr12	2162951	2284064
+DOID:5419	schizophrenia	chr10	18720969	19035970
+DOID:5419	schizophrenia	chr3	63767708	63979023
+DOID:5419	schizophrenia	chr1	73423792	73764239
+DOID:5419	schizophrenia	chr2	193450774	193736324
+DOID:5419	schizophrenia	chr6	26754500	27748225
+DOID:5419	schizophrenia	chr19	54729829	54874509
+DOID:5419	schizophrenia	chr1	166100646	166360703
+DOID:5419	schizophrenia	chr2	233267556	233461584
+DOID:5419	schizophrenia	chr2	200423633	200842461
+DOID:5419	schizophrenia	chr1	175514477	175546744
+DOID:5419	schizophrenia	chr15	38354051	38389548
+DOID:5419	schizophrenia	chr20	47524186	47565056
+DOID:5419	schizophrenia	chr7	136692764	136735790
+DOID:5419	schizophrenia	chr12	29796518	29837910
+DOID:5419	schizophrenia	chr7	1829690	2151199
+DOID:5419	schizophrenia	chr7	104390348	104850608
+DOID:5419	schizophrenia	chr16	9783014	9868380
+DOID:5419	schizophrenia	chr7	109816323	109896793
+DOID:5419	schizophrenia	chr14	29259745	29281627
+DOID:5419	schizophrenia	chr7	1818719	2188109
+DOID:5419	schizophrenia	chr20	36794918	36919400
+DOID:5419	schizophrenia	chr16	66257449	66966936
+DOID:5419	schizophrenia	chr22	39748100	40377471
+DOID:5419	schizophrenia	chr1	241569246	241707504
+DOID:5419	schizophrenia	chr12	102085929	102139043
+DOID:5419	schizophrenia	chr1	43791191	44142031
+DOID:5419	schizophrenia	chr11	16995603	17277998
+DOID:5419	schizophrenia	chr3	36818153	36938424
+DOID:5419	schizophrenia	chr8	143307411	143324144
+DOID:5419	schizophrenia	chr1	2359358	2392359
+DOID:5419	schizophrenia	chr5	45175646	45429511
+DOID:5419	schizophrenia	chr4	170539073	170882578
+DOID:5419	schizophrenia	chr8	60638950	61120033
+DOID:5419	schizophrenia	chr12	55908638	55908638
+DOID:5419	schizophrenia	chr5	88525174	88971675
+DOID:5419	schizophrenia	chr8	89534619	89830279
+DOID:5419	schizophrenia	chr18	51054506	51140485
+DOID:5419	schizophrenia	chr5	60534942	60879463
+DOID:5419	schizophrenia	chr11	112822277	112930640
+DOID:5419	schizophrenia	chr4	177077810	177134691
+DOID:5419	schizophrenia	chr15	59614902	59697004
+DOID:5419	schizophrenia	chr11	122899846	122901197
+DOID:5419	schizophrenia	chr19	35673479	35735865
+DOID:5419	schizophrenia	chr6	32385349	32907823
+DOID:5419	schizophrenia	chr17	1963779	2163008
+DOID:5419	schizophrenia	chr11	130212128	130291555
+DOID:5419	schizophrenia	chr8	4164639	4198154
+DOID:5419	schizophrenia	chr3	137290299	138157190
+DOID:5419	schizophrenia	chr3	182506094	182684122
+DOID:5419	schizophrenia	chr8	27468870	27510599
+DOID:5419	schizophrenia	chr14	103077912	103369773
+DOID:5419	schizophrenia	chr2	185241163	185494275
+DOID:5419	schizophrenia	chr11	130299463	130399341
+DOID:5419	schizophrenia	chr11	57141095	57438404
+DOID:5419	schizophrenia	chr18	50898687	50903698
+DOID:5419	schizophrenia	chr2	57815106	57895440
+DOID:5419	schizophrenia	chr1	30185090	30209855
+DOID:5419	schizophrenia	chr11	78734745	78764610
+DOID:5419	schizophrenia	chr18	51346247	51607941
+DOID:5419	schizophrenia	chr12	122013881	122479386
+DOID:5419	schizophrenia	chr4	22941676	23052524
+DOID:5419	schizophrenia	chr1	205947306	206115700
+DOID:5419	schizophrenia	chr16	57098376	57239205
+DOID:5419	schizophrenia	chr11	108790729	109115099
+DOID:5419	schizophrenia	chr4	118864281	118999247
+DOID:5419	schizophrenia	chr10	104562953	104949842
+DOID:5419	schizophrenia	chr11	124107457	124140245
+DOID:5419	schizophrenia	chr19	19219672	19560963
+DOID:5419	schizophrenia	chr10	61730388	61978525
+DOID:5419	schizophrenia	chr5	153651254	153668408
+DOID:5419	schizophrenia	chr6	96566372	96566372
+DOID:5517	stomach carcinoma	chr22	26987013	27461129
+DOID:5517	stomach carcinoma	chr3	115767551	115871283
+DOID:5517	stomach carcinoma	chr6	40600086	40682837
+DOID:5517	stomach carcinoma	chr10	96033722	96118572
+DOID:5517	stomach carcinoma	chr5	40706856	40874963
+DOID:5517	stomach carcinoma	chr7	21544868	21579145
+DOID:557	kidney disease	chr1	194915236	195111640
+DOID:557	kidney disease	chr22	28473693	28922487
+DOID:5844	myocardial infarction	chr5	4059099	4146896
+DOID:5844	myocardial infarction	chr19	10915715	11044837
+DOID:5844	myocardial infarction	chr21	34515697	34594140
+DOID:5844	myocardial infarction	chr1	220852655	221015977
+DOID:5844	myocardial infarction	chr6	12989149	13056374
+DOID:5844	myocardial infarction	chr9	22015493	22115503
+DOID:5844	myocardial infarction	chr2	203262569	203904863
+DOID:5844	myocardial infarction	chr1	109616403	109623689
+DOID:5844	myocardial infarction	chr19	2111529	2183049
+DOID:5844	myocardial infarction	chr9	135126886	135144821
+DOID:5844	myocardial infarction	chr1	55254357	55283559
+DOID:5844	myocardial infarction	chr3	16923455	17110601
+DOID:5844	myocardial infarction	chr10	43988730	44126384
+DOID:585	nephrolithiasis	chr7	30882003	30903703
+DOID:585	nephrolithiasis	chr5	176687271	176748486
+DOID:585	nephrolithiasis	chr13	41576357	41696634
+DOID:6364	migraine	chr2	234469248	234533168
+DOID:6364	migraine	chr1	4080498	4131824
+DOID:6364	migraine	chr1	154670305	154740743
+DOID:6364	migraine	chr1	115478706	115479469
+DOID:6364	migraine	chr1	3060494	3089054
+DOID:6364	migraine	chr6	12903017	13011943
+DOID:6364	migraine	chr7	40327507	40443888
+DOID:6364	migraine	chr3	30402184	30489364
+DOID:6364	migraine	chr9	118283455	118294546
+DOID:6364	migraine	chr6	96948483	97172963
+DOID:6364	migraine	chr8	98232193	98245219
+DOID:6364	migraine	chr12	55798001	55820737
+DOID:6713	cerebrovascular disease	chr19	10915715	11044837
+DOID:6713	cerebrovascular disease	chr6	72226595	72323471
+DOID:6713	cerebrovascular disease	chr7	18998460	19026858
+DOID:6713	cerebrovascular disease	chr1	56688181	56788719
+DOID:6713	cerebrovascular disease	chr7	129450732	129472833
+DOID:6713	cerebrovascular disease	chr9	135126886	135229220
+DOID:6713	cerebrovascular disease	chr6	160848383	161028134
+DOID:6713	cerebrovascular disease	chr6	44677057	44704413
+DOID:6713	cerebrovascular disease	chr4	111860502	111937516
+DOID:6713	cerebrovascular disease	chr9	21993223	22115503
+DOID:6713	cerebrovascular disease	chr2	203262569	203904863
+DOID:6713	cerebrovascular disease	chr12	110318171	111037415
+DOID:6713	cerebrovascular disease	chr17	17374943	17573644
+DOID:6713	cerebrovascular disease	chr2	53622551	53636063
+DOID:6713	cerebrovascular disease	chr16	71586661	71629089
+DOID:6713	cerebrovascular disease	chr12	592030	653745
+DOID:6713	cerebrovascular disease	chr6	12989149	13056374
+DOID:6713	cerebrovascular disease	chr6	134212825	134267840
+DOID:6713	cerebrovascular disease	chr1	109616403	109623689
+DOID:6713	cerebrovascular disease	chr15	76728174	76870175
+DOID:684	hepatocellular carcinoma	chr2	191608694	191681279
+DOID:706	mature B-cell neoplasm	chr11	122848471	122898721
+DOID:7147	ankylosing spondylitis	chr5	158607721	158756958
+DOID:7147	ankylosing spondylitis	chr12	44029976	44123991
+DOID:7147	ankylosing spondylitis	chr1	199135485	199292473
+DOID:7147	ankylosing spondylitis	chr1	25162321	25178370
+DOID:7147	ankylosing spondylitis	chr5	96106639	96221036
+DOID:7147	ankylosing spondylitis	chr21	39380592	39391390
+DOID:7147	ankylosing spondylitis	chr5	96127700	96214422
+DOID:7147	ankylosing spondylitis	chr5	83197034	83233459
+DOID:7147	ankylosing spondylitis	chr2	62404028	62439711
+DOID:7147	ankylosing spondylitis	chr17	42740011	43172366
+DOID:7147	ankylosing spondylitis	chr12	6360642	6385230
+DOID:7148	rheumatoid arthritis	chr1	182894444	182989758
+DOID:7148	rheumatoid arthritis	chr10	6138955	6148445
+DOID:7148	rheumatoid arthritis	chr4	25694116	25737808
+DOID:7148	rheumatoid arthritis	chr2	204398600	204503002
+DOID:7148	rheumatoid arthritis	chr4	47891902	47918040
+DOID:7148	rheumatoid arthritis	chr5	55470977	55476487
+DOID:7148	rheumatoid arthritis	chr5	102219614	102714056
+DOID:7148	rheumatoid arthritis	chr7	28105911	28225758
+DOID:7148	rheumatoid arthritis	chr11	127993532	128002162
+DOID:7148	rheumatoid arthritis	chr6	159392137	159435297
+DOID:7148	rheumatoid arthritis	chr6	138173816	138304466
+DOID:7148	rheumatoid arthritis	chr6	106736383	106893862
+DOID:7148	rheumatoid arthritis	chr6	44336793	44392877
+DOID:7148	rheumatoid arthritis	chr1	7852406	7891896
+DOID:7148	rheumatoid arthritis	chr9	122675942	122974284
+DOID:7148	rheumatoid arthritis	chr2	111317949	111369047
+DOID:7148	rheumatoid arthritis	chr21	35617779	35686539
+DOID:7148	rheumatoid arthritis	chr20	44114260	44182658
+DOID:7148	rheumatoid arthritis	chr9	34697373	34745359
+DOID:7148	rheumatoid arthritis	chr6	167333529	167464268
+DOID:7148	rheumatoid arthritis	chr18	65662625	65714952
+DOID:7148	rheumatoid arthritis	chr1	171573269	171627709
+DOID:7148	rheumatoid arthritis	chr1	37985052	38147598
+DOID:7148	rheumatoid arthritis	chr11	94938476	94960456
+DOID:7148	rheumatoid arthritis	chr2	41861143	41934660
+DOID:7148	rheumatoid arthritis	chr14	67797259	67885014
+DOID:7148	rheumatoid arthritis	chr2	204280385	204369919
+DOID:7148	rheumatoid arthritis	chr2	100003189	100237294
+DOID:7148	rheumatoid arthritis	chr6	27606196	27919794
+DOID:7148	rheumatoid arthritis	chr2	30291281	30309846
+DOID:7148	rheumatoid arthritis	chr8	129602828	129655958
+DOID:7148	rheumatoid arthritis	chr21	44533569	44540639
+DOID:7148	rheumatoid arthritis	chr8	102519442	102538358
+DOID:7148	rheumatoid arthritis	chr22	20250403	20328833
+DOID:7148	rheumatoid arthritis	chr17	5003028	5222482
+DOID:7148	rheumatoid arthritis	chr16	11667687	11747310
+DOID:7148	rheumatoid arthritis	chr2	191608694	191681279
+DOID:7148	rheumatoid arthritis	chr17	34646921	35047877
+DOID:7148	rheumatoid arthritis	chr3	27732022	27806982
+DOID:7148	rheumatoid arthritis	chr5	130960871	131794402
+DOID:7148	rheumatoid arthritis	chr18	12765821	12787694
+DOID:7148	rheumatoid arthritis	chr2	65409828	65539965
+DOID:7148	rheumatoid arthritis	chr2	60920790	61024415
+DOID:7148	rheumatoid arthritis	chr2	162505867	162609573
+DOID:7148	rheumatoid arthritis	chr10	9089259	9089259
+DOID:7148	rheumatoid arthritis	chr8	11330868	11401193
+DOID:7148	rheumatoid arthritis	chr16	31179854	31277304
+DOID:7148	rheumatoid arthritis	chr1	113877958	114252487
+DOID:7148	rheumatoid arthritis	chr16	84563339	84579128
+DOID:7148	rheumatoid arthritis	chr15	95396549	95425153
+DOID:7148	rheumatoid arthritis	chr9	122182669	122309374
+DOID:7148	rheumatoid arthritis	chr10	81663324	81748055
+DOID:7148	rheumatoid arthritis	chr22	29005217	29150550
+DOID:7148	rheumatoid arthritis	chr15	36604906	36694333
+DOID:7148	rheumatoid arthritis	chr10	6430198	6476040
+DOID:7148	rheumatoid arthritis	chr3	58065843	58456336
+DOID:7148	rheumatoid arthritis	chr20	47862427	48092389
+DOID:7148	rheumatoid arthritis	chr13	39131404	39282943
+DOID:7148	rheumatoid arthritis	chr15	67755099	67831408
+DOID:7148	rheumatoid arthritis	chr10	31419852	31500067
+DOID:7148	rheumatoid arthritis	chr1	117060792	117070154
+DOID:7148	rheumatoid arthritis	chr22	37995147	38086596
+DOID:7148	rheumatoid arthritis	chr1	152661836	152693594
+DOID:7148	rheumatoid arthritis	chr11	121277305	121303950
+DOID:7148	rheumatoid arthritis	chr2	201840650	202197460
+DOID:7148	rheumatoid arthritis	chr14	104456482	104493273
+DOID:7148	rheumatoid arthritis	chr6	138000928	138048197
+DOID:7148	rheumatoid arthritis	chr21	42728136	42742728
+DOID:7148	rheumatoid arthritis	chr4	79712867	79860101
+DOID:7148	rheumatoid arthritis	chr15	36551085	36599088
+DOID:7148	rheumatoid arthritis	chr18	71510817	71608428
+DOID:7148	rheumatoid arthritis	chr10	63591703	63730246
+DOID:7148	rheumatoid arthritis	chr6	14195463	14237609
+DOID:7148	rheumatoid arthritis	chr1	38387454	38417448
+DOID:7148	rheumatoid arthritis	chr12	110318171	110684533
+DOID:7148	rheumatoid arthritis	chr10	49643159	49791790
+DOID:7148	rheumatoid arthritis	chr11	72012521	72102164
+DOID:7148	rheumatoid arthritis	chr10	63449877	63470010
+DOID:7148	rheumatoid arthritis	chr2	62283906	62318454
+DOID:7148	rheumatoid arthritis	chr10	8135346	8155368
+DOID:7148	rheumatoid arthritis	chr3	16949127	17122967
+DOID:7148	rheumatoid arthritis	chr1	17517050	17547124
+DOID:7148	rheumatoid arthritis	chr7	128372852	128509473
+DOID:7148	rheumatoid arthritis	chr5	55480440	55480440
+DOID:7148	rheumatoid arthritis	chr8	81254076	81299585
+DOID:7148	rheumatoid arthritis	chr7	92061454	92164962
+DOID:7148	rheumatoid arthritis	chr11	61303644	61394163
+DOID:7148	rheumatoid arthritis	chr6	32326051	32790115
+DOID:769	neuroblastoma	chr2	215307678	215457501
+DOID:769	neuroblastoma	chr11	43558436	43835081
+DOID:769	neuroblastoma	chr6	105248509	105451729
+DOID:769	neuroblastoma	chr2	215344039	215453059
+DOID:769	neuroblastoma	chr6	22217168	22252038
+DOID:769	neuroblastoma	chr11	8203596	8212431
+DOID:7693	abdominal aortic aneurysm	chr9	123451318	123465064
+DOID:7693	abdominal aortic aneurysm	chr19	11048611	11071912
+DOID:7693	abdominal aortic aneurysm	chr12	55798737	55821179
+DOID:7693	abdominal aortic aneurysm	chr9	22038414	22115503
+DOID:784	chronic kidney failure	chr7	77075326	77443949
+DOID:784	chronic kidney failure	chr16	20257960	20275191
+DOID:784	chronic kidney failure	chr8	23687475	23844340
+DOID:784	chronic kidney failure	chr13	71229985	71298566
+DOID:784	chronic kidney failure	chr12	215630	247468
+DOID:784	chronic kidney failure	chr5	176729949	176756743
+DOID:784	chronic kidney failure	chr9	70587567	70665201
+DOID:784	chronic kidney failure	chr12	110318171	110971201
+DOID:784	chronic kidney failure	chr15	51651969	51793567
+DOID:784	chronic kidney failure	chr6	160548043	160676726
+DOID:784	chronic kidney failure	chr15	73946038	73946038
+DOID:784	chronic kidney failure	chr10	853482	1174625
+DOID:784	chronic kidney failure	chr6	43912549	43937919
+DOID:784	chronic kidney failure	chr15	43332770	43588327
+DOID:784	chronic kidney failure	chr1	148785236	149221295
+DOID:784	chronic kidney failure	chr19	38048731	38105086
+DOID:784	chronic kidney failure	chr4	77473828	77641195
+DOID:784	chronic kidney failure	chr2	73406716	73761154
+DOID:784	chronic kidney failure	chr20	23517186	23581755
+DOID:784	chronic kidney failure	chr2	174162256	174176583
+DOID:784	chronic kidney failure	chr11	30705666	30731101
+DOID:784	chronic kidney failure	chr17	56799540	56823724
+DOID:784	chronic kidney failure	chr3	143141931	143308288
+DOID:784	chronic kidney failure	chr2	15691462	15780453
+DOID:784	chronic kidney failure	chr7	151027904	151054129
+DOID:784	chronic kidney failure	chr2	27410225	27606375
+DOID:824	periodontitis	chr9	137668535	137669543
+DOID:8398	osteoarthritis	chr13	112732334	112745056
+DOID:8398	osteoarthritis	chr15	55978229	56187058
+DOID:8398	osteoarthritis	chr3	52219091	52813442
+DOID:8398	osteoarthritis	chr7	44237832	44244649
+DOID:8398	osteoarthritis	chr19	2080473	2162050
+DOID:8567	Hodgkin's lymphoma	chr2	60908127	61014123
+DOID:8567	Hodgkin's lymphoma	chr6	135323488	135521396
+DOID:8567	Hodgkin's lymphoma	chr5	131909504	132032262
+DOID:8567	Hodgkin's lymphoma	chr19	1581341	1613053
+DOID:8567	Hodgkin's lymphoma	chr10	8128660	8152149
+DOID:8567	Hodgkin's lymphoma	chr8	129227087	129293781
+DOID:8567	Hodgkin's lymphoma	chr3	27732022	27806982
+DOID:8577	ulcerative colitis	chr7	98555561	99074005
+DOID:8577	ulcerative colitis	chr5	134450103	134481713
+DOID:8577	ulcerative colitis	chr11	1829808	1837172
+DOID:8577	ulcerative colitis	chr1	20012623	20012623
+DOID:8577	ulcerative colitis	chr5	158759370	158789091
+DOID:8577	ulcerative colitis	chr1	205006527	205035578
+DOID:8577	ulcerative colitis	chr21	39380592	39390708
+DOID:8577	ulcerative colitis	chr1	159724261	159746369
+DOID:8577	ulcerative colitis	chr7	128354268	128468533
+DOID:8577	ulcerative colitis	chr15	39148430	39562513
+DOID:8577	ulcerative colitis	chr7	27198287	27215416
+DOID:8577	ulcerative colitis	chr6	106618581	106628720
+DOID:8577	ulcerative colitis	chr5	40355763	40524443
+DOID:8577	ulcerative colitis	chr2	241227781	241237658
+DOID:8577	ulcerative colitis	chr9	4971602	5258264
+DOID:8577	ulcerative colitis	chr13	39909866	39930853
+DOID:8577	ulcerative colitis	chr21	44436114	44470684
+DOID:8577	ulcerative colitis	chr1	7744596	8110515
+DOID:8577	ulcerative colitis	chr6	43892781	43909856
+DOID:8577	ulcerative colitis	chr1	20014507	20017885
+DOID:8577	ulcerative colitis	chr2	101977074	102053979
+DOID:8577	ulcerative colitis	chr2	241212412	241218365
+DOID:8577	ulcerative colitis	chr6	116875610	116925580
+DOID:8577	ulcerative colitis	chr11	75948331	75979721
+DOID:8577	ulcerative colitis	chr11	95658510	95685646
+DOID:8577	ulcerative colitis	chr6	32711465	32790430
+DOID:8577	ulcerative colitis	chr5	10723408	10812514
+DOID:8577	ulcerative colitis	chr21	15657908	15763174
+DOID:8577	ulcerative colitis	chr7	107265463	107372016
+DOID:8577	ulcerative colitis	chr2	199198005	199282102
+DOID:8577	ulcerative colitis	chr3	52953458	53118020
+DOID:8577	ulcerative colitis	chr18	51358205	51427587
+DOID:8577	ulcerative colitis	chr20	61741081	61870465
+DOID:8577	ulcerative colitis	chr3	49297031	49771395
+DOID:8577	ulcerative colitis	chr16	30377420	30422224
+DOID:8577	ulcerative colitis	chr20	42498442	42498689
+DOID:8577	ulcerative colitis	chr5	588662	739244
+DOID:8577	ulcerative colitis	chr10	101264048	101310110
+DOID:8577	ulcerative colitis	chr2	61040333	61084518
+DOID:8577	ulcerative colitis	chr7	2718678	2879454
+DOID:8577	ulcerative colitis	chr17	68135626	68154518
+DOID:8577	ulcerative colitis	chr1	22552666	22607518
+DOID:8577	ulcerative colitis	chr12	66755546	66794620
+DOID:8577	ulcerative colitis	chr1	199135485	199292473
+DOID:8577	ulcerative colitis	chr1	2460708	2711009
+DOID:8577	ulcerative colitis	chr5	35843212	35961774
+DOID:8577	ulcerative colitis	chr22	48739923	48799168
+DOID:8577	ulcerative colitis	chr6	138000928	138048197
+DOID:8577	ulcerative colitis	chr13	26429267	26451691
+DOID:8577	ulcerative colitis	chr1	198344658	198372369
+DOID:8577	ulcerative colitis	chr11	113791879	113951314
+DOID:8577	ulcerative colitis	chr17	35158633	35373283
+DOID:8577	ulcerative colitis	chr16	84566200	84577262
+DOID:8577	ulcerative colitis	chr2	218650161	218756027
+DOID:8577	ulcerative colitis	chr9	138371301	138437892
+DOID:8577	ulcerative colitis	chr16	67114615	67229847
+DOID:8577	ulcerative colitis	chr4	103610299	103767015
+DOID:8577	ulcerative colitis	chr1	67442801	67525259
+DOID:8577	ulcerative colitis	chr20	33262941	33344143
+DOID:8577	ulcerative colitis	chr10	101263536	101310602
+DOID:8577	ulcerative colitis	chr19	51811067	51826152
+DOID:8577	ulcerative colitis	chr9	116578155	116659035
+DOID:8577	ulcerative colitis	chr2	198122204	198663076
+DOID:8577	ulcerative colitis	chr1	20036027	20110930
+DOID:8577	ulcerative colitis	chr10	35309796	35594953
+DOID:8778	Crohn's disease	chr14	87474096	87625429
+DOID:8778	Crohn's disease	chr19	51539741	51586626
+DOID:8778	Crohn's disease	chr2	198113881	198663019
+DOID:8778	Crohn's disease	chr5	141443327	141468976
+DOID:8778	Crohn's disease	chr6	167280379	167443385
+DOID:8778	Crohn's disease	chr5	101657498	102025819
+DOID:8778	Crohn's disease	chr3	18585179	18681862
+DOID:8778	Crohn's disease	chr6	159390046	159435297
+DOID:8778	Crohn's disease	chr14	68270756	68296684
+DOID:8778	Crohn's disease	chr6	128008736	128339304
+DOID:8778	Crohn's disease	chr2	62404028	62439711
+DOID:8778	Crohn's disease	chr2	27451601	27594741
+DOID:8778	Crohn's disease	chr4	38001431	38044305
+DOID:8778	Crohn's disease	chr1	205006527	205035578
+DOID:8778	Crohn's disease	chr4	47991139	48491813
+DOID:8778	Crohn's disease	chr19	1057477	1079312
+DOID:8778	Crohn's disease	chr21	15726201	15763174
+DOID:8778	Crohn's disease	chr10	64130935	64221583
+DOID:8778	Crohn's disease	chr17	29587944	29664138
+DOID:8778	Crohn's disease	chr17	37719618	37818156
+DOID:8778	Crohn's disease	chr2	230791415	230879667
+DOID:8778	Crohn's disease	chr18	12734692	12876441
+DOID:8778	Crohn's disease	chr5	40355763	40524443
+DOID:8778	Crohn's disease	chr7	50228180	50304009
+DOID:8778	Crohn's disease	chr9	4971602	5258264
+DOID:8778	Crohn's disease	chr8	90887759	90946716
+DOID:8778	Crohn's disease	chr5	40325495	40586802
+DOID:8778	Crohn's disease	chr2	27410225	27706749
+DOID:8778	Crohn's disease	chr6	21507541	21570603
+DOID:8778	Crohn's disease	chr16	11253614	11363107
+DOID:8778	Crohn's disease	chr1	159104246	159187984
+DOID:8778	Crohn's disease	chr21	44436114	44470684
+DOID:8778	Crohn's disease	chr11	63769486	63897382
+DOID:8778	Crohn's disease	chr1	7731970	7830558
+DOID:8778	Crohn's disease	chr5	96177516	96399506
+DOID:8778	Crohn's disease	chr15	36604442	36712487
+DOID:8778	Crohn's disease	chr9	116575162	116600803
+DOID:8778	Crohn's disease	chr6	3361921	3391262
+DOID:8778	Crohn's disease	chr2	5569264	5611308
+DOID:8778	Crohn's disease	chr10	35309796	35594060
+DOID:8778	Crohn's disease	chr8	74158157	74175974
+DOID:8778	Crohn's disease	chr5	158696755	158755223
+DOID:8778	Crohn's disease	chr8	129602828	129655958
+DOID:8778	Crohn's disease	chr10	80702891	80739419
+DOID:8778	Crohn's disease	chr11	75948331	75979721
+DOID:8778	Crohn's disease	chr19	38447204	38449311
+DOID:8778	Crohn's disease	chr6	106541718	106610385
+DOID:8778	Crohn's disease	chr6	33832772	33899441
+DOID:8778	Crohn's disease	chr6	90866360	91070750
+DOID:8778	Crohn's disease	chr17	22843640	22893160
+DOID:8778	Crohn's disease	chr2	25342323	25359297
+DOID:8778	Crohn's disease	chr15	65228804	65255339
+DOID:8778	Crohn's disease	chr10	112172698	112176138
+DOID:8778	Crohn's disease	chr13	41849449	41950880
+DOID:8778	Crohn's disease	chr5	173202562	173326429
+DOID:8778	Crohn's disease	chr5	55470977	55476487
+DOID:8778	Crohn's disease	chr4	102921387	103147889
+DOID:8778	Crohn's disease	chr2	62567037	62576978
+DOID:8778	Crohn's disease	chr10	59536436	59724493
+DOID:8778	Crohn's disease	chr21	33672208	33698565
+DOID:8778	Crohn's disease	chr12	38686215	39307381
+DOID:8778	Crohn's disease	chr22	20246166	20328833
+DOID:8778	Crohn's disease	chr11	61300075	61396955
+DOID:8778	Crohn's disease	chr5	158596372	158756958
+DOID:8778	Crohn's disease	chr6	127456494	127564266
+DOID:8778	Crohn's disease	chr8	126598256	126612304
+DOID:8778	Crohn's disease	chr3	49297031	49771395
+DOID:8778	Crohn's disease	chr7	26661451	26963732
+DOID:8778	Crohn's disease	chr13	43273330	43388181
+DOID:8778	Crohn's disease	chr19	10277444	10352005
+DOID:8778	Crohn's disease	chr17	35158633	35373283
+DOID:8778	Crohn's disease	chr22	39741750	40039980
+DOID:8778	Crohn's disease	chr1	171073877	171138312
+DOID:8778	Crohn's disease	chr1	113891441	114252487
+DOID:8778	Crohn's disease	chr2	61040333	61084518
+DOID:8778	Crohn's disease	chr20	61772239	61847383
+DOID:8778	Crohn's disease	chr1	67467967	67512759
+DOID:8778	Crohn's disease	chr10	6078484	6165328
+DOID:8778	Crohn's disease	chr6	20771314	20836710
+DOID:8778	Crohn's disease	chr22	37989719	38065156
+DOID:8778	Crohn's disease	chr2	43304354	43717593
+DOID:8778	Crohn's disease	chr10	133060312	133062238
+DOID:8778	Crohn's disease	chr5	131364004	131862572
+DOID:8778	Crohn's disease	chr2	102111286	102548705
+DOID:8778	Crohn's disease	chr10	64057940	64117358
+DOID:8778	Crohn's disease	chr1	199135485	199292473
+DOID:8778	Crohn's disease	chr11	56941540	56968222
+DOID:8778	Crohn's disease	chr16	49287730	49316350
+DOID:8778	Crohn's disease	chr1	120239241	120379639
+DOID:8778	Crohn's disease	chr10	64108492	64115570
+DOID:8778	Crohn's disease	chr1	189704665	190026221
+DOID:8778	Crohn's disease	chr1	78223105	78396214
+DOID:8778	Crohn's disease	chr9	138371301	138437892
+DOID:8778	Crohn's disease	chr17	37821620	38035087
+DOID:8778	Crohn's disease	chr1	195609309	196056727
+DOID:8778	Crohn's disease	chr5	150150036	150315475
+DOID:8778	Crohn's disease	chr19	53897920	53921337
+DOID:8778	Crohn's disease	chr16	28244383	28802631
+DOID:8778	Crohn's disease	chr5	72537785	72595095
+DOID:8778	Crohn's disease	chr10	101263536	101310602
+DOID:8778	Crohn's disease	chr2	233807787	233902126
+DOID:8778	Crohn's disease	chr22	28599907	28922487
+DOID:8778	Crohn's disease	chr7	28108613	28198982
+DOID:8778	Crohn's disease	chr5	173212414	173325004
+DOID:8893	psoriasis	chr6	111687254	112023086
+DOID:8893	psoriasis	chr16	11253614	11363107
+DOID:8893	psoriasis	chr2	60920170	61024415
+DOID:8893	psoriasis	chr2	162875992	163045215
+DOID:8893	psoriasis	chr12	54761615	55040089
+DOID:8893	psoriasis	chr5	150444772	150458511
+DOID:8893	psoriasis	chr5	131960652	132024568
+DOID:8893	psoriasis	chr5	96106639	96152064
+DOID:8893	psoriasis	chr10	80702538	80737046
+DOID:8893	psoriasis	chr6	111533658	112320471
+DOID:8893	psoriasis	chr19	10277444	10352005
+DOID:8893	psoriasis	chr17	23130802	23146312
+DOID:8893	psoriasis	chr14	34854880	34922830
+DOID:8893	psoriasis	chr1	150816642	150989331
+DOID:8893	psoriasis	chr1	67442801	67525259
+DOID:8893	psoriasis	chr6	138188198	138284180
+DOID:8893	psoriasis	chr5	158614907	158689546
+DOID:8893	psoriasis	chr16	30708684	31009822
+DOID:8986	narcolepsy	chr19	10076586	10102944
+DOID:8986	narcolepsy	chr10	64061381	64108277
+DOID:8986	narcolepsy	chr14	22054426	22087405
+DOID:8986	narcolepsy	chr21	33588246	33661093
+DOID:8986	narcolepsy	chr7	141683356	141727289
+DOID:90	degenerative disc disease	chr3	3654852	3656348
+DOID:90	degenerative disc disease	chr6	162081609	162086823
+DOID:90	degenerative disc disease	chr10	73402671	73484551
+DOID:9008	psoriatic arthritis	chr6	111533658	112320471
+DOID:9008	psoriatic arthritis	chr5	158762105	158793214
+DOID:9008	psoriatic arthritis	chr2	60920790	61024415
+DOID:9074	systemic lupus erythematosus	chr12	12639675	12696799
+DOID:9074	systemic lupus erythematosus	chr12	12708275	12758178
+DOID:9074	systemic lupus erythematosus	chr6	138173816	138304466
+DOID:9074	systemic lupus erythematosus	chr16	30493036	30564095
+DOID:9074	systemic lupus erythematosus	chr11	579564	579564
+DOID:9074	systemic lupus erythematosus	chr12	100811501	100857853
+DOID:9074	systemic lupus erythematosus	chr1	171454398	171523173
+DOID:9074	systemic lupus erythematosus	chr1	35482364	35906505
+DOID:9074	systemic lupus erythematosus	chr12	127830791	127907211
+DOID:9074	systemic lupus erythematosus	chr22	20247190	20266835
+DOID:9074	systemic lupus erythematosus	chr2	33555394	33555707
+DOID:9074	systemic lupus erythematosus	chr7	74915355	75034467
+DOID:9074	systemic lupus erythematosus	chr6	106670929	106705006
+DOID:9074	systemic lupus erythematosus	chr5	150418670	150441242
+DOID:9074	systemic lupus erythematosus	chr11	127786111	127855896
+DOID:9074	systemic lupus erythematosus	chr11	118078729	118162507
+DOID:9074	systemic lupus erythematosus	chr16	31179854	31277304
+DOID:9074	systemic lupus erythematosus	chr6	34657085	35005177
+DOID:9074	systemic lupus erythematosus	chr16	84522064	84538035
+DOID:9074	systemic lupus erythematosus	chr10	49643159	49791790
+DOID:9074	systemic lupus erythematosus	chr8	11328365	11411637
+DOID:9074	systemic lupus erythematosus	chr7	50229025	50288854
+DOID:9074	systemic lupus erythematosus	chr6	32491234	32790286
+DOID:9074	systemic lupus erythematosus	chr7	28108613	28198982
+DOID:9074	systemic lupus erythematosus	chr10	63473478	63495813
+DOID:9074	systemic lupus erythematosus	chr3	120605510	120747877
+DOID:9074	systemic lupus erythematosus	chr2	191608694	191681279
+DOID:9074	systemic lupus erythematosus	chr4	88115482	88241733
+DOID:9074	systemic lupus erythematosus	chr15	73072167	73237610
+DOID:9074	systemic lupus erythematosus	chr7	128350569	128361230
+DOID:9074	systemic lupus erythematosus	chr2	74054548	74125085
+DOID:9074	systemic lupus erythematosus	chr3	58205476	58443468
+DOID:9074	systemic lupus erythematosus	chr7	128372852	128509473
+DOID:9206	Barrett's esophagus	chr3	70944593	71103180
+DOID:9206	Barrett's esophagus	chr19	18608696	18664172
+DOID:9206	Barrett's esophagus	chr16	84953757	84964238
+DOID:9206	Barrett's esophagus	chr9	95741484	95931389
+DOID:9296	cleft lip	chr1	18784966	18871634
+DOID:9296	cleft lip	chr8	88937456	89126078
+DOID:9296	cleft lip	chr1	94312657	94331013
+DOID:9296	cleft lip	chr2	43355089	43702080
+DOID:9296	cleft lip	chr10	118631386	118886757
+DOID:9296	cleft lip	chr20	38672758	38711805
+DOID:9296	cleft lip	chr13	79574705	79599849
+DOID:9296	cleft lip	chr1	208013330	208119719
+DOID:9296	cleft lip	chr8	129989462	130059564
+DOID:9296	cleft lip	chr17	52096087	52131954
+DOID:9296	cleft lip	chr3	89534411	89867289
+DOID:9352	type 2 diabetes mellitus	chr12	119850492	119950805
+DOID:9352	type 2 diabetes mellitus	chr12	64451738	64584301
+DOID:9352	type 2 diabetes mellitus	chr13	79575559	79616655
+DOID:9352	type 2 diabetes mellitus	chr17	6881117	6881117
+DOID:9352	type 2 diabetes mellitus	chr11	2648047	2692759
+DOID:9352	type 2 diabetes mellitus	chr1	50599211	51179462
+DOID:9352	type 2 diabetes mellitus	chr9	8862771	8869118
+DOID:9352	type 2 diabetes mellitus	chr10	70601480	70638205
+DOID:9352	type 2 diabetes mellitus	chr17	2046681	2184211
+DOID:9352	type 2 diabetes mellitus	chr5	76460705	76471102
+DOID:9352	type 2 diabetes mellitus	chr2	43304354	43708654
+DOID:9352	type 2 diabetes mellitus	chr15	89245577	89364833
+DOID:9352	type 2 diabetes mellitus	chr7	28108613	28198982
+DOID:9352	type 2 diabetes mellitus	chr7	130073474	130118730
+DOID:9352	type 2 diabetes mellitus	chr10	121129321	121176775
+DOID:9352	type 2 diabetes mellitus	chr9	81071650	81146169
+DOID:9352	type 2 diabetes mellitus	chr3	64673853	64704932
+DOID:9352	type 2 diabetes mellitus	chr12	69875938	69949369
+DOID:9352	type 2 diabetes mellitus	chr6	7140683	7219353
+DOID:9352	type 2 diabetes mellitus	chr11	72037655	72560187
+DOID:9352	type 2 diabetes mellitus	chr10	114736570	114807517
+DOID:9352	type 2 diabetes mellitus	chr4	153471511	153740298
+DOID:9352	type 2 diabetes mellitus	chr6	71154048	71383710
+DOID:9352	type 2 diabetes mellitus	chr7	44190246	44231704
+DOID:9352	type 2 diabetes mellitus	chr9	4253055	4286430
+DOID:9352	type 2 diabetes mellitus	chr2	165210095	165265564
+DOID:9352	type 2 diabetes mellitus	chr3	63802421	64067257
+DOID:9352	type 2 diabetes mellitus	chr8	41600193	41653225
+DOID:9352	type 2 diabetes mellitus	chr19	38581055	38610263
+DOID:9352	type 2 diabetes mellitus	chr6	39386977	39398812
+DOID:9352	type 2 diabetes mellitus	chr9	22119579	22126489
+DOID:9352	type 2 diabetes mellitus	chr9	138360851	138420315
+DOID:9352	type 2 diabetes mellitus	chr10	80610571	80624795
+DOID:9352	type 2 diabetes mellitus	chr1	204166218	204184520
+DOID:9352	type 2 diabetes mellitus	chr1	180340443	180378729
+DOID:9352	type 2 diabetes mellitus	chr11	17161024	17378462
+DOID:9352	type 2 diabetes mellitus	chr12	119681507	120021840
+DOID:9352	type 2 diabetes mellitus	chr3	188145278	188159176
+DOID:9352	type 2 diabetes mellitus	chr7	127646646	127650531
+DOID:9352	type 2 diabetes mellitus	chr6	20760696	20811931
+DOID:9352	type 2 diabetes mellitus	chr11	2792661	2806106
+DOID:9352	type 2 diabetes mellitus	chr16	52355409	52402988
+DOID:9352	type 2 diabetes mellitus	chr15	78132561	78220680
+DOID:9352	type 2 diabetes mellitus	chr3	186969849	187030611
+DOID:9352	type 2 diabetes mellitus	chr7	127017588	127193285
+DOID:9352	type 2 diabetes mellitus	chr15	36604906	36656958
+DOID:9352	type 2 diabetes mellitus	chr12	122013881	122479386
+DOID:9352	type 2 diabetes mellitus	chr11	92308474	92365451
+DOID:9352	type 2 diabetes mellitus	chr7	126869733	126998711
+DOID:9352	type 2 diabetes mellitus	chr8	118253964	118289451
+DOID:9352	type 2 diabetes mellitus	chr18	55883669	56065659
+DOID:9352	type 2 diabetes mellitus	chr17	33170413	33178234
+DOID:9352	type 2 diabetes mellitus	chr10	12279462	12374247
+DOID:9352	type 2 diabetes mellitus	chr2	160795657	161052308
+DOID:9352	type 2 diabetes mellitus	chr1	120239241	120379639
+DOID:9352	type 2 diabetes mellitus	chr15	88169071	88250527
+DOID:9352	type 2 diabetes mellitus	chr8	95887810	96061649
+DOID:9352	type 2 diabetes mellitus	chr15	60170447	60204426
+DOID:9352	type 2 diabetes mellitus	chr20	42285687	42426528
+DOID:9352	type 2 diabetes mellitus	chr4	6314897	6372297
+DOID:9352	type 2 diabetes mellitus	chr6	20729116	20833076
+DOID:9352	type 2 diabetes mellitus	chr3	189223217	189224536
+DOID:9352	type 2 diabetes mellitus	chr5	53307177	53347259
+DOID:9352	type 2 diabetes mellitus	chr3	23242377	23472709
+DOID:9352	type 2 diabetes mellitus	chr3	124533709	124613944
+DOID:9352	type 2 diabetes mellitus	chr15	75171057	75640729
+DOID:9352	type 2 diabetes mellitus	chr2	226728897	226889927
+DOID:9352	type 2 diabetes mellitus	chr3	12304783	12388339
+DOID:9352	type 2 diabetes mellitus	chr2	60405980	60442788
+DOID:9352	type 2 diabetes mellitus	chr18	7052395	7072908
+DOID:9352	type 2 diabetes mellitus	chr11	92308623	92348358
+DOID:9352	type 2 diabetes mellitus	chr10	94198377	94475191
+DOID:9352	type 2 diabetes mellitus	chr6	37870532	38335570
+DOID:9538	multiple myeloma	chr17	16760949	16816361
+DOID:9538	multiple myeloma	chr3	170941266	171028346
+DOID:9538	multiple myeloma	chr7	21881515	21915828
+DOID:9538	multiple myeloma	chr3	41725264	42040009
+DOID:9538	multiple myeloma	chr22	37847959	37893154
+DOID:9744	type 1 diabetes mellitus	chr11	2123879	2133428
+DOID:9744	type 1 diabetes mellitus	chr12	54655773	54768447
+DOID:9744	type 1 diabetes mellitus	chr4	25694116	25737808
+DOID:9744	type 1 diabetes mellitus	chr2	204398600	204503002
+DOID:9744	type 1 diabetes mellitus	chr6	170210630	170250059
+DOID:9744	type 1 diabetes mellitus	chr17	35990905	36129210
+DOID:9744	type 1 diabetes mellitus	chr14	97531630	97568704
+DOID:9744	type 1 diabetes mellitus	chr17	35158633	35378872
+DOID:9744	type 1 diabetes mellitus	chr2	162784392	162992313
+DOID:9744	type 1 diabetes mellitus	chr1	113877958	114252487
+DOID:9744	type 1 diabetes mellitus	chr20	1558062	1564206
+DOID:9744	type 1 diabetes mellitus	chr12	110192841	110684533
+DOID:9744	type 1 diabetes mellitus	chr1	205006527	205035578
+DOID:9744	type 1 diabetes mellitus	chr10	90003169	90042328
+DOID:9744	type 1 diabetes mellitus	chr16	28240912	28851897
+DOID:9744	type 1 diabetes mellitus	chr22	28451577	28920015
+DOID:9744	type 1 diabetes mellitus	chr16	10942434	11214525
+DOID:9744	type 1 diabetes mellitus	chr14	100375798	100377456
+DOID:9744	type 1 diabetes mellitus	chr7	26661451	26963732
+DOID:9744	type 1 diabetes mellitus	chr12	9715405	9801716
+DOID:9744	type 1 diabetes mellitus	chr18	65662625	65717567
+DOID:9744	type 1 diabetes mellitus	chr6	32537223	32785890
+DOID:9744	type 1 diabetes mellitus	chr15	77007641	77036697
+DOID:9744	type 1 diabetes mellitus	chr18	12734692	12876441
+DOID:9744	type 1 diabetes mellitus	chr4	123287258	123776686
+DOID:9744	type 1 diabetes mellitus	chr6	126667310	127122393
+DOID:9744	type 1 diabetes mellitus	chr13	75170284	75308726
+DOID:9744	type 1 diabetes mellitus	chr11	2157119	2190745
+DOID:9744	type 1 diabetes mellitus	chr19	51840645	51980485
+DOID:9744	type 1 diabetes mellitus	chr9	4253055	4286430
+DOID:9744	type 1 diabetes mellitus	chr14	68325397	68383812
+DOID:9744	type 1 diabetes mellitus	chr10	6101485	6164268
+DOID:9744	type 1 diabetes mellitus	chr19	10323513	10338067
+DOID:9744	type 1 diabetes mellitus	chr2	25013284	25234077
+DOID:9744	type 1 diabetes mellitus	chr2	174162256	174176583
+DOID:9744	type 1 diabetes mellitus	chr7	50872124	51354222
+DOID:9744	type 1 diabetes mellitus	chr16	73792373	74064754
+DOID:9744	type 1 diabetes mellitus	chr10	6430198	6476040
+DOID:9744	type 1 diabetes mellitus	chr22	35911431	35929011
+DOID:9744	type 1 diabetes mellitus	chr21	42691725	42714896
+DOID:9744	type 1 diabetes mellitus	chr6	90906885	91070750
+DOID:9835	refractive error	chr15	32776918	32797167
+DOID:9835	refractive error	chr14	59856734	60178578
+DOID:9835	refractive error	chr3	53811782	53832843
+DOID:9835	refractive error	chr6	73634501	73700010
+DOID:9835	refractive error	chr12	69520175	69572045
+DOID:9835	refractive error	chr20	6697671	6710719
+DOID:9835	refractive error	chr6	129834705	129896048
+DOID:9835	refractive error	chr17	27977227	28275975
+DOID:9835	refractive error	chr10	94889774	94955762
+DOID:9835	refractive error	chr17	11336115	11397596
+DOID:9835	refractive error	chr8	40825954	40900886
+DOID:9835	refractive error	chr9	76164740	76349535
+DOID:9835	refractive error	chr11	105018911	105211053
+DOID:9835	refractive error	chr16	7397973	7402815
+DOID:9835	refractive error	chr15	77159468	77258053
+DOID:9835	refractive error	chr9	70845408	71024200
+DOID:9835	refractive error	chr17	66229783	66242814
+DOID:9835	refractive error	chr12	54401036	54403248
+DOID:9835	refractive error	chr2	233081010	233166923
+DOID:9835	refractive error	chr8	60218783	60355904
+DOID:9835	refractive error	chr4	80615919	80784676
+DOID:9835	refractive error	chr10	59934747	60044904
+DOID:9835	refractive error	chr13	99603798	99704444
+DOID:986	alopecia areata	chr2	204398600	204504339
+DOID:986	alopecia areata	chr12	54655773	54768447
+DOID:986	alopecia areata	chr4	123247173	123776736
+DOID:986	alopecia areata	chr6	150375182	150448297
+DOID:986	alopecia areata	chr10	6132450	6154862
+DOID:9952	acute lymphocytic leukemia	chr7	50429901	50533321
+DOID:9952	acute lymphocytic leukemia	chr14	22646451	22658571
+DOID:9952	acute lymphocytic leukemia	chr10	63369901	63426205
+DOID:9970	obesity	chr2	226728897	226889927
+DOID:9970	obesity	chr14	77855830	77866735
+DOID:9970	obesity	chr18	55881076	56064945
+DOID:9970	obesity	chr12	96403046	96614664
+DOID:9970	obesity	chr14	60977829	61007554
+DOID:9970	obesity	chr1	65716059	65790306
+DOID:9970	obesity	chr13	52962982	53005584
+DOID:9970	obesity	chr1	217689219	217829204
+DOID:9970	obesity	chr17	43927132	44039928
+DOID:9970	obesity	chr16	78224516	78246972
+DOID:9970	obesity	chr8	9689718	9844014
+DOID:9970	obesity	chr6	50772139	51083060
+DOID:9970	obesity	chr1	72329736	72731627
+DOID:9970	obesity	chr11	65546556	65663818
+DOID:9970	obesity	chr2	590575	643874
+DOID:9970	obesity	chr16	52355409	52402988
