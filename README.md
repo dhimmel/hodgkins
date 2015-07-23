@@ -1,6 +1,5 @@
 # Human disease network identifies a common genetic architecture between Hodgkin's lymphoma and autoimmune disease.
 
-
 ## Methods
 
 We constructed a human disease network based on shared genetic susceptibility loci between complex diseases. We relied only on systematic GWAS data to avoid any knowledge bias when characterizing disease based on genetic association.
@@ -15,5 +14,6 @@ We constructed a human disease network based on shared genetic susceptibility lo
 
 **Network visualization**: Since our similarity and proximity scores are not symmetric, we averaged the directed scores into a single undirected score per disease pair ([notebook](network.ipynb), [`data/network.tsv`](data/network.tsv)). We created a similarity network and a proximity network using scores as edge weights. We visualized the networks using a [Fruchterman-Reingold](https://dx.doi.org/10.1002/spe.4380211102) force-directed layout.
 
+## Results
 
-
+![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic similarity network](figure/similarity-network.svg?raw=true "Similarity network. Autoimmune diseases are purple and solid cancers are orange.") ![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic proximity network](figure/proximity-network.svg?raw=true "Proximity network. Autoimmune diseases are purple and solid cancers are orange.")
