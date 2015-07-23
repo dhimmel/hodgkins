@@ -16,4 +16,4 @@ We constructed a human disease network based on shared genetic susceptibility lo
 
 ## Results
 
-![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic similarity network](figure/similarity-network.png?raw=true "Similarity network. Autoimmune diseases are purple and solid cancers are orange.") ![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic proximity network](figure/proximity-network.png?raw=true "Proximity network. Autoimmune diseases are purple and solid cancers are orange.")
+![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic proximity network](figure/proximity-network.png?raw=true "Proximity network. Autoimmune diseases are purple and solid cancers are orange.")
