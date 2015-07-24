@@ -12,7 +12,7 @@ We constructed a human disease network based on shared genetic susceptibility lo
 
 **Disease proximity**: We calculated network proximities for all diseases pairs using a [random walk with restart](https://dx.doi.org/10.1145/1014052.1014135) ([notebook](walk.ipynb), [`data/proximities.tsv`](data/proximities.tsv)). A separate walk was performed for each disease, seeded by disease similarity. At every step until convergence, the walker restarted with probability equal to 0.2.
 
-**Network visualization**: Since our similarity and proximity scores are not symmetric, we averaged the directed scores into a single undirected score per disease pair ([notebook](network.ipynb), [`data/network.tsv`](data/network.tsv)). We created a similarity network and a proximity network using scores as edge weights. We visualized the networks using a [Fruchterman-Reingold](https://dx.doi.org/10.1002/spe.4380211102) force-directed layout.
+**Network visualization**: Since our similarity and proximity scores are not symmetric, we averaged the directed scores into a single undirected score per disease pair ([notebook](network.ipynb), [`data/network.tsv`](data/network.tsv), [browser](http://htmlpreview.github.io/?https://github.com/dhimmel/hodgkins/blob/master/tables.html)). We created a similarity network and a proximity network using scores as edge weights. We visualized the networks using a [Fruchterman-Reingold](https://dx.doi.org/10.1002/spe.4380211102) force-directed layout.
 
 ## Results
 
@@ -26,3 +26,12 @@ The network includes three hematologic cancers. Hodgkin's lymphoma (HL) is separ
 
 ![](figure/pairwise-proximities.png?raw=true)
 ![](figure/ms-hl-dotplot.png?raw=true)
+
+## Execution
+
+This analysis can be reproduced by running the notebooks in the following order:
+
+1. `disease-similarities.ipynb`
+2. `walk.ipynb`
+3. `plotting.ipynb`
+3. `network.ipynb`
