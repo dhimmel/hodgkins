@@ -20,7 +20,7 @@ Both the similarity and proximity networks displayed distint autoimmune and soli
 
 The network includes three hematologic cancers. Hodgkin's lymphoma (HL) is separated from the solid cancer cluster and instead placed with autoimmune diseases. Alternatively, multiple myeloma (MM) clusters with solid cancers. These findings are preliminary due to the small number of associated loci: 7 for HL, 5 for MM. Chronic lymphocytic leukemia (CLL), which has 27 loci, shared genetic etiology with both autoimmune diseases and solid cancers and was located between the two clusters in the network.
 
-![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic proximity network](figure/similarity-network.png?raw=true "Similarity network. Autoimmune diseases are purple and solid cancers are orange.")
+![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic proximity network](figure/proximity-network.png?raw=true "Proximity network. Autoimmune diseases are purple and solid cancers are orange.")
 
 ![](figure/disease-proximities.png?raw=true "Pairwise disease proximities")
 
