@@ -1,0 +1,24 @@
+---
+title: "Human disease network of shared genetic etiology"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+---
+
+```{r}
+library(readr)
+library(DT)
+```
+
+```{r}
+readr::read_tsv('data/network.tsv') %>%
+  DT::datatable(rownames = F,
+    options = list(
+      pageLength = 25,
+      autoWidth = TRUE,
+      columnDefs = list(list(targets=c(0, 2), visible=FALSE))
+    )
+  )
+
+```
