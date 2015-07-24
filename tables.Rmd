@@ -11,6 +11,8 @@ library(readr)
 library(DT)
 ```
 
+## Edges in the disease similarity and proximity networks
+
 ```{r}
 readr::read_tsv('data/network.tsv') %>%
   DT::datatable(rownames = F,
@@ -20,5 +22,15 @@ readr::read_tsv('data/network.tsv') %>%
       columnDefs = list(list(targets=c(0, 2), visible=FALSE))
     )
   )
+```
 
+## Diseases
+
+```{r}
+readr::read_tsv('data/loci-counts.tsv') %>%
+  dplyr::left_join(
+    readr::read_tsv('input/doid-categories.tsv') %>%
+      dplyr::select(doid_code, category)
+  ) %>%
+  DT::datatable(rownames = F)
 ```
