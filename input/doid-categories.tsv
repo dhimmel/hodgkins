@@ -1,114 +1,114 @@
-doid_code	doid_name	count	category
-DOID:5419	schizophrenia	108	
-DOID:8778	Crohn's disease	104	Autoimmune
-DOID:7148	rheumatoid arthritis	88	Autoimmune
-DOID:3459	breast carcinoma	80	Solid Cancer
-DOID:9352	type 2 diabetes mellitus	73	
-DOID:8577	ulcerative colitis	65	Autoimmune
-DOID:10286	prostate carcinoma	60	Solid Cancer
-DOID:2377	multiple sclerosis	55	Autoimmune
-DOID:3393	coronary artery disease	43	
-DOID:9744	type 1 diabetes mellitus	41	Autoimmune
-DOID:11829	degenerative myopia	36	
-DOID:3312	bipolar disorder	34	
-DOID:9074	systemic lupus erythematosus	33	Autoimmune
-DOID:10652	Alzheimer's disease	33	
-DOID:1040	chronic lymphocytic leukemia	27	Hematologic Cancer
-DOID:10608	celiac disease	26	Autoimmune
-DOID:784	chronic kidney failure	26	
-DOID:9835	refractive error	23	
-DOID:12306	vitiligo	23	Autoimmune
-DOID:2841	asthma	21	
-DOID:14221	metabolic syndrome X	21	
-DOID:6713	cerebrovascular disease	20	
-DOID:12236	primary biliary cirrhosis	20	Autoimmune
-DOID:10871	age related macular degeneration	18	
-DOID:8893	psoriasis	18	Autoimmune
-DOID:9970	obesity	16	
-DOID:1107	esophageal carcinoma	15	Solid Cancer
-DOID:3310	atopic dermatitis	14	
-DOID:10763	hypertension	14	
-DOID:418	systemic scleroderma	13	Autoimmune
-DOID:3083	chronic obstructive pulmonary disease	13	
-DOID:4007	bladder carcinoma	13	Solid Cancer
-DOID:5844	myocardial infarction	13	
-DOID:1595	endogenous depression	13	
-DOID:14330	Parkinson's disease	13	
-DOID:4481	allergic rhinitis	12	
-DOID:1909	melanoma	12	Solid Cancer
-DOID:12361	Graves' disease	12	Autoimmune
-DOID:1094	attention deficit hyperactivity disorder	12	
-DOID:6364	migraine	12	
-DOID:2513	basal cell carcinoma	11	Solid Cancer
-DOID:7147	ankylosing spondylitis	11	Autoimmune
-DOID:3905	lung carcinoma	11	Solid Cancer
-DOID:9296	cleft lip	11	
-DOID:4001	ovarian carcinoma	11	Solid Cancer
-DOID:11612	polycystic ovary syndrome	11	
-DOID:1749	squamous cell carcinoma	10	Solid Cancer
-DOID:10941	intracranial aneurysm	8	
-DOID:3620	central nervous system cancer	8	Solid Cancer
-DOID:1067	open-angle glaucoma	8	
-DOID:4905	pancreatic carcinoma	8	Solid Cancer
-DOID:1826	epilepsy syndrome	7	
-DOID:8567	Hodgkin's lymphoma	7	Hematologic Cancer
-DOID:1024	leprosy	7	
-DOID:5408	Paget's disease of bone	7	
-DOID:332	amyotrophic lateral sclerosis	7	
-DOID:0050425	restless legs syndrome	7	
-DOID:0050741	alcohol dependence	7	
-DOID:5517	stomach carcinoma	6	Solid Cancer
-DOID:4450	renal cell carcinoma	6	Solid Cancer
-DOID:769	neuroblastoma	6	Solid Cancer
-DOID:289	endometriosis	6	
-DOID:13378	Kawasaki disease	6	Autoimmune
-DOID:11782	astigmatism	6	
-DOID:13241	Behcet's disease	6	Autoimmune
-DOID:1686	glaucoma	5	
-DOID:2986	IgA glomerulonephritis	5	Autoimmune
-DOID:9538	multiple myeloma	5	Hematologic Cancer
-DOID:13922	eosinophilic esophagitis	5	
-DOID:8398	osteoarthritis	5	
-DOID:986	alopecia areata	5	Autoimmune
-DOID:8986	narcolepsy	5	
-DOID:3963	thyroid carcinoma	5	Solid Cancer
-DOID:3910	lung adenocarcinoma	5	Solid Cancer
-DOID:1936	atherosclerosis	5	
-DOID:1459	hypothyroidism	4	Autoimmune
-DOID:14227	azoospermia	4	
-DOID:7693	abdominal aortic aneurysm	4	
-DOID:9206	Barrett's esophagus	4	
-DOID:11476	osteoporosis	4	
-DOID:14268	sclerosing cholangitis	4	Autoimmune
-DOID:9008	psoriatic arthritis	3	Autoimmune
-DOID:12365	malaria	3	
-DOID:11949	Creutzfeldt-Jakob disease	3	
-DOID:0050156	idiopathic pulmonary fibrosis	3	
-DOID:585	nephrolithiasis	3	
-DOID:90	degenerative disc disease	3	
-DOID:5082	liver cirrhosis	3	
-DOID:9952	acute lymphocytic leukemia	3	Hematologic Cancer
-DOID:2468	psychotic disorder	3	
-DOID:13223	uterine fibroid	2	
-DOID:557	kidney disease	2	
-DOID:13189	gout	2	
-DOID:12995	conduct disorder	2	
-DOID:12930	dilated cardiomyopathy	2	
-DOID:11714	gestational diabetes	2	
-DOID:0050742	nicotine dependence	2	
-DOID:1883	hepatitis C	2	
-DOID:3908	non-small cell lung carcinoma	2	Solid Cancer
-DOID:10976	membranous glomerulonephritis	1	
-DOID:11119	Gilles de la Tourette syndrome	1	
-DOID:3324	mood disorder	1	
-DOID:12849	autistic disorder	1	
-DOID:824	periodontitis	1	
-DOID:1312	focal segmental glomerulosclerosis	1	
-DOID:706	mature B-cell neoplasm	1	Hematologic Cancer
-DOID:13641	exfoliation syndrome	1	
-DOID:1380	endometrial cancer	1	Solid Cancer
-DOID:4989	pancreatitis	1	
-DOID:4960	bone marrow cancer	1	Hematologic Cancer
-DOID:14004	thoracic aortic aneurysm	1	
-DOID:2043	hepatitis B	1	
-DOID:684	hepatocellular carcinoma	1	Solid Cancer
+doid_code	doid_name	abbreviation	category
+DOID:5419	schizophrenia	SCZ	
+DOID:8778	Crohn's disease	CD	Autoimmune
+DOID:7148	rheumatoid arthritis	RA	Autoimmune
+DOID:3459	breast carcinoma	BrC	Solid Cancer
+DOID:9352	type 2 diabetes mellitus	T2D	
+DOID:8577	ulcerative colitis	UC	Autoimmune
+DOID:10286	prostate carcinoma	PrC	Solid Cancer
+DOID:2377	multiple sclerosis	MS	Autoimmune
+DOID:3393	coronary artery disease	CAD	
+DOID:9744	type 1 diabetes mellitus	T1D	Autoimmune
+DOID:11829	degenerative myopia	Myo	
+DOID:3312	bipolar disorder	BD	
+DOID:9074	systemic lupus erythematosus	SLE	Autoimmune
+DOID:10652	Alzheimer's disease	AD	
+DOID:1040	chronic lymphocytic leukemia	CLL	Hematologic Cancer
+DOID:10608	celiac disease	Cel	Autoimmune
+DOID:784	chronic kidney failure	CKD	
+DOID:9835	refractive error	Ref	
+DOID:12306	vitiligo	Vit	Autoimmune
+DOID:2841	asthma	Ast	
+DOID:14221	metabolic syndrome X	MSX	
+DOID:6713	cerebrovascular disease	CVD	
+DOID:12236	primary biliary cirrhosis	PBC	Autoimmune
+DOID:10871	age related macular degeneration	AMD	
+DOID:8893	psoriasis	Ps	Autoimmune
+DOID:9970	obesity	Obs	
+DOID:1107	esophageal carcinoma	EsC	Solid Cancer
+DOID:3310	atopic dermatitis	Ecz	
+DOID:10763	hypertension	HTN	
+DOID:418	systemic scleroderma	SS	Autoimmune
+DOID:3083	chronic obstructive pulmonary disease	COPD	
+DOID:4007	bladder carcinoma	BlC	Solid Cancer
+DOID:5844	myocardial infarction	MI	
+DOID:1595	endogenous depression	MDD	
+DOID:14330	Parkinson's disease	PD	
+DOID:4481	allergic rhinitis	Rhi	
+DOID:1909	melanoma	Mel	Solid Cancer
+DOID:12361	Graves' disease	GD	Autoimmune
+DOID:1094	attention deficit hyperactivity disorder	ADHD	
+DOID:6364	migraine	Mig	
+DOID:2513	basal cell carcinoma	BCC	Solid Cancer
+DOID:7147	ankylosing spondylitis	AS	Autoimmune
+DOID:3905	lung carcinoma	LuC	Solid Cancer
+DOID:9296	cleft lip		
+DOID:4001	ovarian carcinoma	OvC	Solid Cancer
+DOID:11612	polycystic ovary syndrome	PCOS	
+DOID:1749	squamous cell carcinoma	SCC	Solid Cancer
+DOID:10941	intracranial aneurysm		
+DOID:3620	central nervous system cancer	CNS	Solid Cancer
+DOID:1067	open-angle glaucoma		
+DOID:4905	pancreatic carcinoma	PaC	Solid Cancer
+DOID:1826	epilepsy syndrome	Epi	
+DOID:8567	Hodgkin's lymphoma	HL	Hematologic Cancer
+DOID:1024	leprosy	Lep	
+DOID:5408	Paget's disease of bone		
+DOID:332	amyotrophic lateral sclerosis	ALS	
+DOID:0050425	restless legs syndrome	RLS	
+DOID:0050741	alcohol dependence	Alc	
+DOID:5517	stomach carcinoma	StC	Solid Cancer
+DOID:4450	renal cell carcinoma	RCC	Solid Cancer
+DOID:769	neuroblastoma	NB	Solid Cancer
+DOID:289	endometriosis	End	
+DOID:13378	Kawasaki disease	KD	Autoimmune
+DOID:11782	astigmatism		
+DOID:13241	Behcet's disease	Beh	Autoimmune
+DOID:1686	glaucoma		
+DOID:2986	IgA glomerulonephritis	IgA	Autoimmune
+DOID:9538	multiple myeloma	MM	Hematologic Cancer
+DOID:13922	eosinophilic esophagitis		
+DOID:8398	osteoarthritis	OA	
+DOID:986	alopecia areata	AR	Autoimmune
+DOID:8986	narcolepsy		
+DOID:3963	thyroid carcinoma	ThC	Solid Cancer
+DOID:3910	lung adenocarcinoma	LuC	Solid Cancer
+DOID:1936	atherosclerosis		
+DOID:1459	hypothyroidism	hTh	Autoimmune
+DOID:14227	azoospermia		
+DOID:7693	abdominal aortic aneurysm		
+DOID:9206	Barrett's esophagus		
+DOID:11476	osteoporosis		
+DOID:14268	sclerosing cholangitis	PSC	Autoimmune
+DOID:9008	psoriatic arthritis	PsA	Autoimmune
+DOID:12365	malaria		
+DOID:11949	Creutzfeldt-Jakob disease	CJD	
+DOID:0050156	idiopathic pulmonary fibrosis	IPF	
+DOID:585	nephrolithiasis	KSt	
+DOID:90	degenerative disc disease	DJD	
+DOID:5082	liver cirrhosis	Cir	
+DOID:9952	acute lymphocytic leukemia	ALL	Hematologic Cancer
+DOID:2468	psychotic disorder	Psy	
+DOID:13223	uterine fibroid		
+DOID:557	kidney disease		
+DOID:13189	gout	Gou	
+DOID:12995	conduct disorder		
+DOID:12930	dilated cardiomyopathy	DMy	
+DOID:11714	gestational diabetes	GDM	
+DOID:0050742	nicotine dependence	Nic	
+DOID:1883	hepatitis C	HCV	
+DOID:3908	non-small cell lung carcinoma	NSLC	Solid Cancer
+DOID:10976	membranous glomerulonephritis	Mem	
+DOID:11119	Gilles de la Tourette syndrome	Tou	
+DOID:3324	mood disorder		
+DOID:12849	autistic disorder	Aut	
+DOID:824	periodontitis		
+DOID:1312	focal segmental glomerulosclerosis	FSGS	
+DOID:706	mature B-cell neoplasm	BCN	Hematologic Cancer
+DOID:13641	exfoliation syndrome		
+DOID:1380	endometrial cancer	EnC	Solid Cancer
+DOID:4989	pancreatitis		
+DOID:4960	bone marrow cancer	BMC	Hematologic Cancer
+DOID:14004	thoracic aortic aneurysm	TAA	
+DOID:2043	hepatitis B	HBV	
+DOID:684	hepatocellular carcinoma	HCC	Solid Cancer

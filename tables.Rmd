@@ -30,7 +30,7 @@ readr::read_tsv('data/network.tsv') %>%
 readr::read_tsv('data/loci-counts.tsv') %>%
   dplyr::left_join(
     readr::read_tsv('input/doid-categories.tsv') %>%
-      dplyr::select(doid_code, category)
+      dplyr::select(doid_code, abbreviation, category)
   ) %>%
   DT::datatable(rownames = F)
 ```
