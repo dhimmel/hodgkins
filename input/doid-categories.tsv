@@ -61,7 +61,7 @@ DOID:5517	stomach carcinoma	StC	Solid Cancer
 DOID:4450	renal cell carcinoma	RCC	Solid Cancer
 DOID:769	neuroblastoma	NB	Solid Cancer
 DOID:289	endometriosis	End	
-DOID:13378	Kawasaki disease	KD	Autoimmune
+DOID:13378	Kawasaki disease	Kaw	Autoimmune
 DOID:11782	astigmatism		
 DOID:13241	Behcet's disease	Beh	Autoimmune
 DOID:1686	glaucoma		
@@ -72,7 +72,7 @@ DOID:8398	osteoarthritis	OA
 DOID:986	alopecia areata	AR	Autoimmune
 DOID:8986	narcolepsy		
 DOID:3963	thyroid carcinoma	ThC	Solid Cancer
-DOID:3910	lung adenocarcinoma	LuC	Solid Cancer
+DOID:3910	lung adenocarcinoma	LuA	Solid Cancer
 DOID:1936	atherosclerosis		
 DOID:1459	hypothyroidism	hTh	Autoimmune
 DOID:14227	azoospermia		
