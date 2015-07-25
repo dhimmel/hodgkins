@@ -1,5 +1,5 @@
 source_id	source_name	target_id	target_name	proximity	similarity
-DOID:8577	ulcerative colitis	DOID:12306	vitiligo	0.016136	0.000000
+DOID:10652	Alzheimer's disease	DOID:14221	metabolic syndrome X	0.150427	0.054377
 DOID:10652	Alzheimer's disease	DOID:1936	atherosclerosis	0.141439	0.032741
 DOID:10652	Alzheimer's disease	DOID:1107	esophageal carcinoma	0.069386	0.033051
 DOID:10652	Alzheimer's disease	DOID:10286	prostate carcinoma	0.050564	0.016684
@@ -3319,4 +3319,4 @@ DOID:9744	type 1 diabetes mellitus	DOID:8577	ulcerative colitis	0.028660	0.02997
 DOID:9744	type 1 diabetes mellitus	DOID:9352	type 2 diabetes mellitus	0.017882	0.015474
 DOID:9352	type 2 diabetes mellitus	DOID:8577	ulcerative colitis	0.015807	0.010128
 DOID:9352	type 2 diabetes mellitus	DOID:12306	vitiligo	0.008686	0.000000
-DOID:10652	Alzheimer's disease	DOID:14221	metabolic syndrome X	0.150427	0.054377
+DOID:8577	ulcerative colitis	DOID:12306	vitiligo	0.016136	0.000000
