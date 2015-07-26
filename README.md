@@ -23,12 +23,14 @@ The network includes three hematologic cancers. Hodgkin's lymphoma (HL) is separ
 ![Hodgkin's lymphoma clusters with autoimmune diseases rather than solid cancers in a genetic proximity network](figure/proximity-network.png?raw=true "Proximity network. Autoimmune diseases are purple and solid cancers are orange.")
 **Figure 1: Disease proximity network shows Hodgkin's lymphoma as genetically related to autoimmune disease rather than solid cancer.**
 
-![](figure/disease-proximities.png?raw=true "Pairwise disease proximities")
-**Figure 2: Proximity distributions for each disease.**
+![Proximities to autoimmune diseases and solid cancers for each disease](figure/disease-proximities.png?raw=true "Pairwise disease proximities")
+**Figure 2: Proximities to autoimmune diseases and solid cancers for each disease.** Each panel shows the proximity from its titled disease to other diseases. Proximities are only displayed for autoimmune diseases, solid cancers, and Hodgkin's lymphoma. Higher proximities indicate greater relatedness. The *p*-value indicates whether the mean proximity to autoimmune diseases (including MS, excluding HL) was different than the mean proximity to solid cancers. 
 
-![](figure/pairwise-proximities.png?raw=true "Proximity distibutions for disease category comparisons")
-![](figure/ms-hl-dotplot.png?raw=true "Disease proximities to HL and MS")
-**Figure 3: The genetic etiology of Hodgkin's lymphoma is more related to autoimmune disease than solid cancer.**
+![Proximity distributions between disease categories](figure/pairwise-proximities.png?raw=true "The *p*-value" reports a difference in means of the two distributions.)
+**Figure 3: Proximity distributions between disease categories.** Distributions are plotted for all proximities between diseases of the titled category and diseases of the colored category. The *p*-values indicate whether the mean proximity to autoimmune diseases differed from the mean proximity to solid cancers. The top panel shows autoimmune diseases were more related to other autoimmune diseases than solid cancers. The bottom panel shows solid cancers were more related to other solid cancers than autoimmune diseases. The middle panel shows that, in aggregate, hematologic cancers were related to both autoimmune diseases and solid cancers.
+
+![Proximities to autoimmune diseases and solid cancers for MS and HL](figure/ms-hl-dotplot.png?raw=true "Proximities to autoimmune diseases and solid cancers for MS and HL")
+**Figure 4: Proximities to autoimmune diseases and solid cancers for MS and HL.** As expected, MS was more related to autoimmune diseases than solid cancers. Similarly, Hodgkin's lymphoma was also more related to autoimmune diseases than solid cancers.
 
 ## Execution
 
