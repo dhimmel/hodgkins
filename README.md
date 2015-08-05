@@ -1,5 +1,7 @@
 # Human disease network identifies a common genetic architecture between Hodgkin's lymphoma and autoimmune disease.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23025.svg)](http://dx.doi.org/10.5281/zenodo.23025)
+
 ## Methods
 
 We constructed a human disease network based on shared genetic susceptibility loci between complex diseases. We relied only on systematic GWAS data to avoid any knowledge bias when characterizing disease based on genetic association.
