@@ -1,6 +1,11 @@
-# Human disease network identifies a common genetic architecture between Hodgkin's lymphoma and autoimmune disease.
+# Human disease network identifies a common genetic architecture between Hodgkin's lymphoma and autoimmune disease
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23025.svg)](http://dx.doi.org/10.5281/zenodo.23025)
+[![DOI: 10.5281/zenodo.23025](https://zenodo.org/badge/doi/10.5281/zenodo.23025.svg)](https://doi.org/10.5281/zenodo.23025 "Repository on Zenodo")
+
+This repository hosts the disease network analysis for:
+
+1. A [post on the IJE Blog](https://ije-blog.com/2016/03/14/genome-wide-association-study-gives-rise-to-a-new-breed-of-disease-network/) by Daniel Himmelstein titled "Genome-wide association study gives rise to a new breed of disease network".
+2. An [article in the International Journal of Epidemiology](https://doi.org/10.1093/ije/dyv364 "Khankhanian et al. 2016") titled "Meta-analysis of genome-wide association studies reveals genetic overlap between Hodgkin lymphoma and multiple sclerosis".
 
 ## Methods
 
